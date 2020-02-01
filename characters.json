@@ -1,81 +1,642 @@
-id,name,series,image,icon,color
-1,Mario,"Super Mario",mario,m_mario,#ff4026
-10,Luigi,"Super Mario",luigi,m_mario,#5ea444
-14,Peach,"Super Mario",peach,m_mario,#f5c9f0
-15,Daisy,"Super Mario",daisy,m_mario,#f0bb2c
-16,Bowser,"Super Mario",bowser,m_mario,#44745e
-20,"Dr. Mario","Super Mario",dr_mario,m_mario,#e86c6d
-51,"Rosalina & Luma","Super Mario",rosalina_and_luma,m_mario,#98d5cd
-61,"Bowser Jr.","Super Mario",bowser_jr,m_mario,#59bf38
-75,"Piranha Plant","Super Mario",piranha_plant,m_mario,#00aa82
-23,Marth,"Fire Emblem",marth,m_fireemblem,#5da8c8
-24,Lucina,"Fire Emblem",lucina,m_fireemblem,#7ea6c7
-28,Roy,"Fire Emblem",roy,m_fireemblem,#74b65b
-29,Chrom,"Fire Emblem",chrom,m_fireemblem,#b4b4cf
-37,Ike,"Fire Emblem",ike,m_fireemblem,#b64f3e
-59,Robin,"Fire Emblem",robin,m_fireemblem,#c387d9
-66,Corrin,"Fire Emblem",corrin,m_fireemblem,#63a7c0
-80,Byleth,"Fire Emblem",byleth,m_fireemblem,#9CE0B8
-9,Pikachu,Pokémon,pikachu,m_pokemon,#ffb912
-13,Jigglypuff,Pokémon,jigglypuff,m_pokemon,#f29bf6
-21,Pichu,Pokémon,pichu,m_pokemon,#dedc1f
-27,Mewtwo,Pokémon,mewtwo,m_pokemon,#927bc5
-38,"Pokémon Trainer",Pokémon,pokemon_trainer,m_pokemon,#ffc004
-44,Lucario,Pokémon,lucario,m_pokemon,#b8e3fc
-53,Greninja,Pokémon,greninja,m_pokemon,#5673a5
-74,Incineroar,Pokémon,incineroar,m_pokemon,#ffd902
-3,Link,"The Legend of Zelda",link,m_zelda,#1c94c3
-18,Sheik,"The Legend of Zelda",sheik,m_zelda,#756fd0
-19,Zelda,"The Legend of Zelda",zelda,m_zelda,#fdeaa4
-25,"Young Link","The Legend of Zelda",young_link,m_zelda,#a5d160
-26,Ganondorf,"The Legend of Zelda",ganondorf,m_zelda,#7974a4
-46,"Toon Link","The Legend of Zelda",toon_link,m_zelda,#8ce689
-4,Samus,Metroid,samus,m_metroid,#353f56
-5,"Dark Samus",Metroid,dark_samus,m_metroid,#3d395e
-34,"Zero Suit Samus",Metroid,zero_suit_samus,m_metroid,#205ba4
-69,Ridley,Metroid,ridley,m_metroid,#71456f
-2,"Donkey Kong","Donkey Kong",donkey_kong,m_donkeykong,#f9da4a
-39,"Diddy Kong","Donkey Kong",diddy_kong,m_donkeykong,#e05a52
-72,"King K. Rool","Donkey Kong",king_k_rool,m_donkeykong,#65873b
-32,Pit,"Kid Icarus",pit,m_palutena,#acdafa
-33,"Dark Pit","Kid Icarus",dark_pit,m_palutena,#875cbe
-57,Palutena,"Kid Icarus",palutena,m_palutena,#91e5c1
-7,Kirby,Kirby,kirby,m_kirby,#ffaec7
-31,"Meta Knight",Kirby,meta_knight,m_kirby,#5367b0
-42,"King Dedede",Kirby,king_dedede,m_kirby,#fce87b
-54,"Mii Brawler",Mii,mii_fighter,m_mii,#5dc1e6
-55,"Mii Sword Fighter",Mii,mii_fighter,m_mii,#5dc1e6
-56,"Mii Gunner",Mii,mii_fighter,m_mii,#5dc1e6
-8,Fox,"Star Fox",fox,m_starfox,#307cdf
-22,Falco,"Star Fox",falco,m_starfox,#69b0de
-47,Wolf,"Star Fox",wolf,m_starfox,#cccccc
-48,Villager,"Animal Crossing",villager,m_doubutsu,#83a88e
-73,Isabelle,"Animal Crossing",isabelle,m_doubutsu,#c4d37e
-70,Simon,CastleVania,simon,m_dracula,#76150e
-71,Richter,CastleVania,richter,m_dracula,#2a6db0
-11,Ness,Earthbound,ness,m_mother,#de413d
-40,Lucas,Earthbound,lucas,m_mother,#e06833
-63,Ryu,"Street Fighter",ryu,m_streetfighter,#d0504d
-64,Ken,"Street Fighter",ken,m_streetfighter,#cdd7dc
-78,"Banjo & Kazooie","Banjo & Kazooie",banjo_and_kazooie,m_banjo_and_kazooie,#fcdd76
-67,Bayonetta,Bayonetta,bayonetta,m_bayonetta,#a5a1e0
-77,Hero,"Dragon Quest",hero,m_dragonquest,#ccb3f4
-62,"Duck Hunt","Duck Hunt",duck_hunt,m_duckhunt,#8c5d3a
-12,"Captain Falcon",F-Zero,captain_falcon,m_f-zero,#8e8adc
-79,Terry,"Fatal Fury",terry,m_garou,#6eb5ff
-65,Cloud,"Final Fantasy",cloud,m_finalfantasy,#419384
-30,"Mr. Game & Watch","Game & Watch",mr_game_and_watch,m_gamewatch,#a4a190
-17,"Ice Climbers","Ice Climber",ice_climbers,m_iceclimber,#a0cafe
-49,"Mega Man","Mega Man",mega_man,m_rockman,#86c1e0
-36,Snake,"Metal Gear Solid",snake,m_metalgear,#658198
-58,Pac-Man,Pac-Man,pac_man,m_pacman,#fcb541
-76,Joker,"Persona 5",joker,m_persona,#b41201
-43,Olimar,Pikmin,olimar,m_pikmin,#ccefb0
-52,"Little Mac",Punch-Out,little_mac,m_punch_out,#5d8f72
-45,R.O.B.,R.O.B.,rob,m_famicomrobot,#b2b8bd
-41,Sonic,"Sonic the Hedgehog",sonic,m_sonic,#659deb
-68,Inkling,Splatoon,inkling,m_splatoon,#f02d7d
-35,Wario,"Wario Ware",wario,m_wario,#fee71f
-50,"Wii Fit Trainer","Wii Fit",wii_fit_trainer,m_wii_fit,#cccccc
-60,Shulk,Xenoblade,shulk,m_xenoblade,#d5647a
-6,Yoshi,Yoshi,yoshi,m_yoshi,#83cd65
+[
+	{
+		"id" : 1,
+		"name" : "Mario",
+		"series" : "Super Mario",
+		"image" : "mario",
+		"icon" : "m_mario",
+		"color" : "#ff4026"
+	},
+	{
+		"id" : 10,
+		"name" : "Luigi",
+		"series" : "Super Mario",
+		"image" : "luigi",
+		"icon" : "m_mario",
+		"color" : "#5ea444"
+	},
+	{
+		"id" : 14,
+		"name" : "Peach",
+		"series" : "Super Mario",
+		"image" : "peach",
+		"icon" : "m_mario",
+		"color" : "#f5c9f0"
+	},
+	{
+		"id" : 15,
+		"name" : "Daisy",
+		"series" : "Super Mario",
+		"image" : "daisy",
+		"icon" : "m_mario",
+		"color" : "#f0bb2c"
+	},
+	{
+		"id" : 16,
+		"name" : "Bowser",
+		"series" : "Super Mario",
+		"image" : "bowser",
+		"icon" : "m_mario",
+		"color" : "#44745e"
+	},
+	{
+		"id" : 20,
+		"name" : "Dr. Mario",
+		"series" : "Super Mario",
+		"image" : "dr_mario",
+		"icon" : "m_mario",
+		"color" : "#e86c6d"
+	},
+	{
+		"id" : 51,
+		"name" : "Rosalina & Luma",
+		"series" : "Super Mario",
+		"image" : "rosalina_and_luma",
+		"icon" : "m_mario",
+		"color" : "#98d5cd"
+	},
+	{
+		"id" : 61,
+		"name" : "Bowser Jr.",
+		"series" : "Super Mario",
+		"image" : "bowser_jr",
+		"icon" : "m_mario",
+		"color" : "#59bf38"
+	},
+	{
+		"id" : 75,
+		"name" : "Piranha Plant",
+		"series" : "Super Mario",
+		"image" : "piranha_plant",
+		"icon" : "m_mario",
+		"color" : "#00aa82"
+	},
+	{
+		"id" : 23,
+		"name" : "Marth",
+		"series" : "Fire Emblem",
+		"image" : "marth",
+		"icon" : "m_fireemblem",
+		"color" : "#5da8c8"
+	},
+	{
+		"id" : 24,
+		"name" : "Lucina",
+		"series" : "Fire Emblem",
+		"image" : "lucina",
+		"icon" : "m_fireemblem",
+		"color" : "#7ea6c7"
+	},
+	{
+		"id" : 28,
+		"name" : "Roy",
+		"series" : "Fire Emblem",
+		"image" : "roy",
+		"icon" : "m_fireemblem",
+		"color" : "#74b65b"
+	},
+	{
+		"id" : 29,
+		"name" : "Chrom",
+		"series" : "Fire Emblem",
+		"image" : "chrom",
+		"icon" : "m_fireemblem",
+		"color" : "#b4b4cf"
+	},
+	{
+		"id" : 37,
+		"name" : "Ike",
+		"series" : "Fire Emblem",
+		"image" : "ike",
+		"icon" : "m_fireemblem",
+		"color" : "#b64f3e"
+	},
+	{
+		"id" : 59,
+		"name" : "Robin",
+		"series" : "Fire Emblem",
+		"image" : "robin",
+		"icon" : "m_fireemblem",
+		"color" : "#c387d9"
+	},
+	{
+		"id" : 66,
+		"name" : "Corrin",
+		"series" : "Fire Emblem",
+		"image" : "corrin",
+		"icon" : "m_fireemblem",
+		"color" : "#63a7c0"
+	},
+	{
+		"id" : 80,
+		"name" : "Byleth",
+		"series" : "Fire Emblem",
+		"image" : "byleth",
+		"icon" : "m_fireemblem",
+		"color" : "#9CE0B8"
+	},
+	{
+		"id" : 9,
+		"name" : "Pikachu",
+		"series" : "Pokémon",
+		"image" : "pikachu",
+		"icon" : "m_pokemon",
+		"color" : "#ffb912"
+	},
+	{
+		"id" : 13,
+		"name" : "Jigglypuff",
+		"series" : "Pokémon",
+		"image" : "jigglypuff",
+		"icon" : "m_pokemon",
+		"color" : "#f29bf6"
+	},
+	{
+		"id" : 21,
+		"name" : "Pichu",
+		"series" : "Pokémon",
+		"image" : "pichu",
+		"icon" : "m_pokemon",
+		"color" : "#dedc1f"
+	},
+	{
+		"id" : 27,
+		"name" : "Mewtwo",
+		"series" : "Pokémon",
+		"image" : "mewtwo",
+		"icon" : "m_pokemon",
+		"color" : "#927bc5"
+	},
+	{
+		"id" : 38,
+		"name" : "Pokémon Trainer",
+		"series" : "Pokémon",
+		"image" : "pokemon_trainer",
+		"icon" : "m_pokemon",
+		"color" : "#ffc004"
+	},
+	{
+		"id" : 44,
+		"name" : "Lucario",
+		"series" : "Pokémon",
+		"image" : "lucario",
+		"icon" : "m_pokemon",
+		"color" : "#b8e3fc"
+	},
+	{
+		"id" : 53,
+		"name" : "Greninja",
+		"series" : "Pokémon",
+		"image" : "greninja",
+		"icon" : "m_pokemon",
+		"color" : "#5673a5"
+	},
+	{
+		"id" : 74,
+		"name" : "Incineroar",
+		"series" : "Pokémon",
+		"image" : "incineroar",
+		"icon" : "m_pokemon",
+		"color" : "#ffd902"
+	},
+	{
+		"id" : 3,
+		"name" : "Link",
+		"series" : "The Legend of Zelda",
+		"image" : "link",
+		"icon" : "m_zelda",
+		"color" : "#1c94c3"
+	},
+	{
+		"id" : 18,
+		"name" : "Sheik",
+		"series" : "The Legend of Zelda",
+		"image" : "sheik",
+		"icon" : "m_zelda",
+		"color" : "#756fd0"
+	},
+	{
+		"id" : 19,
+		"name" : "Zelda",
+		"series" : "The Legend of Zelda",
+		"image" : "zelda",
+		"icon" : "m_zelda",
+		"color" : "#fdeaa4"
+	},
+	{
+		"id" : 25,
+		"name" : "Young Link",
+		"series" : "The Legend of Zelda",
+		"image" : "young_link",
+		"icon" : "m_zelda",
+		"color" : "#a5d160"
+	},
+	{
+		"id" : 26,
+		"name" : "Ganondorf",
+		"series" : "The Legend of Zelda",
+		"image" : "ganondorf",
+		"icon" : "m_zelda",
+		"color" : "#7974a4"
+	},
+	{
+		"id" : 46,
+		"name" : "Toon Link",
+		"series" : "The Legend of Zelda",
+		"image" : "toon_link",
+		"icon" : "m_zelda",
+		"color" : "#8ce689"
+	},
+	{
+		"id" : 4,
+		"name" : "Samus",
+		"series" : "Metroid",
+		"image" : "samus",
+		"icon" : "m_metroid",
+		"color" : "#353f56"
+	},
+	{
+		"id" : 5,
+		"name" : "Dark Samus",
+		"series" : "Metroid",
+		"image" : "dark_samus",
+		"icon" : "m_metroid",
+		"color" : "#3d395e"
+	},
+	{
+		"id" : 34,
+		"name" : "Zero Suit Samus",
+		"series" : "Metroid",
+		"image" : "zero_suit_samus",
+		"icon" : "m_metroid",
+		"color" : "#205ba4"
+	},
+	{
+		"id" : 69,
+		"name" : "Ridley",
+		"series" : "Metroid",
+		"image" : "ridley",
+		"icon" : "m_metroid",
+		"color" : "#71456f"
+	},
+	{
+		"id" : 2,
+		"name" : "Donkey Kong",
+		"series" : "Donkey Kong",
+		"image" : "donkey_kong",
+		"icon" : "m_donkeykong",
+		"color" : "#f9da4a"
+	},
+	{
+		"id" : 39,
+		"name" : "Diddy Kong",
+		"series" : "Donkey Kong",
+		"image" : "diddy_kong",
+		"icon" : "m_donkeykong",
+		"color" : "#e05a52"
+	},
+	{
+		"id" : 72,
+		"name" : "King K. Rool",
+		"series" : "Donkey Kong",
+		"image" : "king_k_rool",
+		"icon" : "m_donkeykong",
+		"color" : "#65873b"
+	},
+	{
+		"id" : 32,
+		"name" : "Pit",
+		"series" : "Kid Icarus",
+		"image" : "pit",
+		"icon" : "m_palutena",
+		"color" : "#acdafa"
+	},
+	{
+		"id" : 33,
+		"name" : "Dark Pit",
+		"series" : "Kid Icarus",
+		"image" : "dark_pit",
+		"icon" : "m_palutena",
+		"color" : "#875cbe"
+	},
+	{
+		"id" : 57,
+		"name" : "Palutena",
+		"series" : "Kid Icarus",
+		"image" : "palutena",
+		"icon" : "m_palutena",
+		"color" : "#91e5c1"
+	},
+	{
+		"id" : 7,
+		"name" : "Kirby",
+		"series" : "Kirby",
+		"image" : "kirby",
+		"icon" : "m_kirby",
+		"color" : "#ffaec7"
+	},
+	{
+		"id" : 31,
+		"name" : "Meta Knight",
+		"series" : "Kirby",
+		"image" : "meta_knight",
+		"icon" : "m_kirby",
+		"color" : "#5367b0"
+	},
+	{
+		"id" : 42,
+		"name" : "King Dedede",
+		"series" : "Kirby",
+		"image" : "king_dedede",
+		"icon" : "m_kirby",
+		"color" : "#fce87b"
+	},
+	{
+		"id" : 54,
+		"name" : "Mii Brawler",
+		"series" : "Mii",
+		"image" : "mii_fighter",
+		"icon" : "m_mii",
+		"color" : "#5dc1e6"
+	},
+	{
+		"id" : 55,
+		"name" : "Mii Sword Fighter",
+		"series" : "Mii",
+		"image" : "mii_fighter",
+		"icon" : "m_mii",
+		"color" : "#5dc1e6"
+	},
+	{
+		"id" : 56,
+		"name" : "Mii Gunner",
+		"series" : "Mii",
+		"image" : "mii_fighter",
+		"icon" : "m_mii",
+		"color" : "#5dc1e6"
+	},
+	{
+		"id" : 8,
+		"name" : "Fox",
+		"series" : "Star Fox",
+		"image" : "fox",
+		"icon" : "m_starfox",
+		"color" : "#307cdf"
+	},
+	{
+		"id" : 22,
+		"name" : "Falco",
+		"series" : "Star Fox",
+		"image" : "falco",
+		"icon" : "m_starfox",
+		"color" : "#69b0de"
+	},
+	{
+		"id" : 47,
+		"name" : "Wolf",
+		"series" : "Star Fox",
+		"image" : "wolf",
+		"icon" : "m_starfox",
+		"color" : "#cccccc"
+	},
+	{
+		"id" : 48,
+		"name" : "Villager",
+		"series" : "Animal Crossing",
+		"image" : "villager",
+		"icon" : "m_doubutsu",
+		"color" : "#83a88e"
+	},
+	{
+		"id" : 73,
+		"name" : "Isabelle",
+		"series" : "Animal Crossing",
+		"image" : "isabelle",
+		"icon" : "m_doubutsu",
+		"color" : "#c4d37e"
+	},
+	{
+		"id" : 70,
+		"name" : "Simon",
+		"series" : "CastleVania",
+		"image" : "simon",
+		"icon" : "m_dracula",
+		"color" : "#76150e"
+	},
+	{
+		"id" : 71,
+		"name" : "Richter",
+		"series" : "CastleVania",
+		"image" : "richter",
+		"icon" : "m_dracula",
+		"color" : "#2a6db0"
+	},
+	{
+		"id" : 11,
+		"name" : "Ness",
+		"series" : "Earthbound",
+		"image" : "ness",
+		"icon" : "m_mother",
+		"color" : "#de413d"
+	},
+	{
+		"id" : 40,
+		"name" : "Lucas",
+		"series" : "Earthbound",
+		"image" : "lucas",
+		"icon" : "m_mother",
+		"color" : "#e06833"
+	},
+	{
+		"id" : 63,
+		"name" : "Ryu",
+		"series" : "Street Fighter",
+		"image" : "ryu",
+		"icon" : "m_streetfighter",
+		"color" : "#d0504d"
+	},
+	{
+		"id" : 64,
+		"name" : "Ken",
+		"series" : "Street Fighter",
+		"image" : "ken",
+		"icon" : "m_streetfighter",
+		"color" : "#cdd7dc"
+	},
+	{
+		"id" : 78,
+		"name" : "Banjo & Kazooie",
+		"series" : "Banjo & Kazooie",
+		"image" : "banjo_and_kazooie",
+		"icon" : "m_banjo_and_kazooie",
+		"color" : "#fcdd76"
+	},
+	{
+		"id" : 67,
+		"name" : "Bayonetta",
+		"series" : "Bayonetta",
+		"image" : "bayonetta",
+		"icon" : "m_bayonetta",
+		"color" : "#a5a1e0"
+	},
+	{
+		"id" : 77,
+		"name" : "Hero",
+		"series" : "Dragon Quest",
+		"image" : "hero",
+		"icon" : "m_dragonquest",
+		"color" : "#ccb3f4"
+	},
+	{
+		"id" : 62,
+		"name" : "Duck Hunt",
+		"series" : "Duck Hunt",
+		"image" : "duck_hunt",
+		"icon" : "m_duckhunt",
+		"color" : "#8c5d3a"
+	},
+	{
+		"id" : 12,
+		"name" : "Captain Falcon",
+		"series" : "F-Zero",
+		"image" : "captain_falcon",
+		"icon" : "m_f-zero",
+		"color" : "#8e8adc"
+	},
+	{
+		"id" : 79,
+		"name" : "Terry",
+		"series" : "Fatal Fury",
+		"image" : "terry",
+		"icon" : "m_garou",
+		"color" : "#6eb5ff"
+	},
+	{
+		"id" : 65,
+		"name" : "Cloud",
+		"series" : "Final Fantasy",
+		"image" : "cloud",
+		"icon" : "m_finalfantasy",
+		"color" : "#419384"
+	},
+	{
+		"id" : 30,
+		"name" : "Mr. Game & Watch",
+		"series" : "Game & Watch",
+		"image" : "mr_game_and_watch",
+		"icon" : "m_gamewatch",
+		"color" : "#a4a190"
+	},
+	{
+		"id" : 17,
+		"name" : "Ice Climbers",
+		"series" : "Ice Climber",
+		"image" : "ice_climbers",
+		"icon" : "m_iceclimber",
+		"color" : "#a0cafe"
+	},
+	{
+		"id" : 49,
+		"name" : "Mega Man",
+		"series" : "Mega Man",
+		"image" : "mega_man",
+		"icon" : "m_rockman",
+		"color" : "#86c1e0"
+	},
+	{
+		"id" : 36,
+		"name" : "Snake",
+		"series" : "Metal Gear Solid",
+		"image" : "snake",
+		"icon" : "m_metalgear",
+		"color" : "#658198"
+	},
+	{
+		"id" : 58,
+		"name" : "Pac-Man",
+		"series" : "Pac-Man",
+		"image" : "pac_man",
+		"icon" : "m_pacman",
+		"color" : "#fcb541"
+	},
+	{
+		"id" : 76,
+		"name" : "Joker",
+		"series" : "Persona 5",
+		"image" : "joker",
+		"icon" : "m_persona",
+		"color" : "#b41201"
+	},
+	{
+		"id" : 43,
+		"name" : "Olimar",
+		"series" : "Pikmin",
+		"image" : "olimar",
+		"icon" : "m_pikmin",
+		"color" : "#ccefb0"
+	},
+	{
+		"id" : 52,
+		"name" : "Little Mac",
+		"series" : "Punch-Out",
+		"image" : "little_mac",
+		"icon" : "m_punch_out",
+		"color" : "#5d8f72"
+	},
+	{
+		"id" : 45,
+		"name" : "R.O.B.",
+		"series" : "R.O.B.",
+		"image" : "rob",
+		"icon" : "m_famicomrobot",
+		"color" : "#b2b8bd"
+	},
+	{
+		"id" : 41,
+		"name" : "Sonic",
+		"series" : "Sonic the Hedgehog",
+		"image" : "sonic",
+		"icon" : "m_sonic",
+		"color" : "#659deb"
+	},
+	{
+		"id" : 68,
+		"name" : "Inkling",
+		"series" : "Splatoon",
+		"image" : "inkling",
+		"icon" : "m_splatoon",
+		"color" : "#f02d7d"
+	},
+	{
+		"id" : 35,
+		"name" : "Wario",
+		"series" : "Wario Ware",
+		"image" : "wario",
+		"icon" : "m_wario",
+		"color" : "#fee71f"
+	},
+	{
+		"id" : 50,
+		"name" : "Wii Fit Trainer",
+		"series" : "Wii Fit",
+		"image" : "wii_fit_trainer",
+		"icon" : "m_wii_fit",
+		"color" : "#cccccc"
+	},
+	{
+		"id" : 60,
+		"name" : "Shulk",
+		"series" : "Xenoblade",
+		"image" : "shulk",
+		"icon" : "m_xenoblade",
+		"color" : "#d5647a"
+	},
+	{
+		"id" : 6,
+		"name" : "Yoshi",
+		"series" : "Yoshi",
+		"image" : "yoshi",
+		"icon" : "m_yoshi",
+		"color" : "#83cd65"
+	}
+]
