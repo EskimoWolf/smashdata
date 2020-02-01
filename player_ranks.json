@@ -51,7 +51,7 @@
 		"percent" : 89.47,
 		"rank" : 1182,
 		"color" : "#ccb3f4",
-		"rank_letter" : "S",
+		"rank_letter" : "A",
 		"image" : "https://www.smashbros.com/assets_v2/img/fighter/pict/dq_hero.png"
 	},
 	{
@@ -62,7 +62,7 @@
 		"percent" : 86.96,
 		"rank" : 1175,
 		"color" : "#8ce689",
-		"rank_letter" : "S",
+		"rank_letter" : "A",
 		"image" : "https://www.smashbros.com/assets_v2/img/fighter/pict/toon_link.png"
 	},
 	{
@@ -73,7 +73,7 @@
 		"percent" : 83.33,
 		"rank" : 1054,
 		"color" : "#65873b",
-		"rank_letter" : "A",
+		"rank_letter" : "B",
 		"image" : "https://www.smashbros.com/assets_v2/img/fighter/pict/king_k_rool.png"
 	},
 	{
@@ -84,7 +84,7 @@
 		"percent" : 83.33,
 		"rank" : 1051,
 		"color" : "#de413d",
-		"rank_letter" : "A",
+		"rank_letter" : "B",
 		"image" : "https://www.smashbros.com/assets_v2/img/fighter/pict/ness.png"
 	},
 	{
@@ -139,7 +139,7 @@
 		"percent" : 78.46,
 		"rank" : 1191,
 		"color" : "#63a7c0",
-		"rank_letter" : "S",
+		"rank_letter" : "A",
 		"image" : "https://www.smashbros.com/assets_v2/img/fighter/pict/corrin.png"
 	},
 	{
@@ -172,7 +172,7 @@
 		"percent" : 75.00,
 		"rank" : 1054,
 		"color" : "#7974a4",
-		"rank_letter" : "A",
+		"rank_letter" : "B",
 		"image" : "https://www.smashbros.com/assets_v2/img/fighter/pict/ganondorf.png"
 	},
 	{
@@ -194,7 +194,7 @@
 		"percent" : 71.43,
 		"rank" : 1051,
 		"color" : "#5dc1e6",
-		"rank_letter" : "A",
+		"rank_letter" : "B",
 		"image" : "https://www.smashbros.com/assets_v2/img/fighter/pict/mii_fighter.png"
 	},
 	{
@@ -216,7 +216,7 @@
 		"percent" : 70.97,
 		"rank" : 1152,
 		"color" : "#9CE0B8",
-		"rank_letter" : "S",
+		"rank_letter" : "A",
 		"image" : "https://www.smashbros.com/assets_v2/img/fighter/pict/byleth.png"
 	},
 	{
@@ -227,7 +227,7 @@
 		"percent" : 70.00,
 		"rank" : 1154,
 		"color" : "#fce87b",
-		"rank_letter" : "S",
+		"rank_letter" : "A",
 		"image" : "https://www.smashbros.com/assets_v2/img/fighter/pict/king_dedede.png"
 	},
 	{
@@ -249,7 +249,7 @@
 		"percent" : 68.00,
 		"rank" : 1082,
 		"color" : "#353f56",
-		"rank_letter" : "A",
+		"rank_letter" : "B",
 		"image" : "https://www.smashbros.com/assets_v2/img/fighter/pict/samus.png"
 	},
 	{
@@ -271,7 +271,7 @@
 		"percent" : 61.90,
 		"rank" : 1061,
 		"color" : "#71456f",
-		"rank_letter" : "A",
+		"rank_letter" : "B",
 		"image" : "https://www.smashbros.com/assets_v2/img/fighter/pict/ridley.png"
 	},
 	{
@@ -887,7 +887,7 @@
 		"percent" : 62.79,
 		"rank" : 1160,
 		"color" : "#44745e",
-		"rank_letter" : "S",
+		"rank_letter" : "A",
 		"image" : "https://www.smashbros.com/assets_v2/img/fighter/pict/bowser.png"
 	},
 	{
@@ -1173,7 +1173,7 @@
 		"percent" : 40.00,
 		"rank" : 1056,
 		"color" : "#9CE0B8",
-		"rank_letter" : "A",
+		"rank_letter" : "B",
 		"image" : "https://www.smashbros.com/assets_v2/img/fighter/pict/byleth.png"
 	},
 	{
