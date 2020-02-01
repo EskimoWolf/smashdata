@@ -1,0 +1,81 @@
+id,name,series,image,icon,color
+1,Mario,"Super Mario",mario,m_mario,#ff4026
+10,Luigi,"Super Mario",luigi,m_mario,#5ea444
+14,Peach,"Super Mario",peach,m_mario,#f5c9f0
+15,Daisy,"Super Mario",daisy,m_mario,#f0bb2c
+16,Bowser,"Super Mario",bowser,m_mario,#44745e
+20,"Dr. Mario","Super Mario",dr_mario,m_mario,#e86c6d
+51,"Rosalina & Luma","Super Mario",rosalina_and_luma,m_mario,#98d5cd
+61,"Bowser Jr.","Super Mario",bowser_jr,m_mario,#59bf38
+75,"Piranha Plant","Super Mario",piranha_plant,m_mario,#00aa82
+23,Marth,"Fire Emblem",marth,m_fireemblem,#5da8c8
+24,Lucina,"Fire Emblem",lucina,m_fireemblem,#7ea6c7
+28,Roy,"Fire Emblem",roy,m_fireemblem,#74b65b
+29,Chrom,"Fire Emblem",chrom,m_fireemblem,#b4b4cf
+37,Ike,"Fire Emblem",ike,m_fireemblem,#b64f3e
+59,Robin,"Fire Emblem",robin,m_fireemblem,#c387d9
+66,Corrin,"Fire Emblem",corrin,m_fireemblem,#63a7c0
+80,Byleth,"Fire Emblem",byleth,m_fireemblem,#9CE0B8
+9,Pikachu,Pokémon,pikachu,m_pokemon,#ffb912
+13,Jigglypuff,Pokémon,jigglypuff,m_pokemon,#f29bf6
+21,Pichu,Pokémon,pichu,m_pokemon,#dedc1f
+27,Mewtwo,Pokémon,mewtwo,m_pokemon,#927bc5
+38,"Pokémon Trainer",Pokémon,pokemon_trainer,m_pokemon,#ffc004
+44,Lucario,Pokémon,lucario,m_pokemon,#b8e3fc
+53,Greninja,Pokémon,greninja,m_pokemon,#5673a5
+74,Incineroar,Pokémon,incineroar,m_pokemon,#ffd902
+3,Link,"The Legend of Zelda",link,m_zelda,#1c94c3
+18,Sheik,"The Legend of Zelda",sheik,m_zelda,#756fd0
+19,Zelda,"The Legend of Zelda",zelda,m_zelda,#fdeaa4
+25,"Young Link","The Legend of Zelda",young_link,m_zelda,#a5d160
+26,Ganondorf,"The Legend of Zelda",ganondorf,m_zelda,#7974a4
+46,"Toon Link","The Legend of Zelda",toon_link,m_zelda,#8ce689
+4,Samus,Metroid,samus,m_metroid,#353f56
+5,"Dark Samus",Metroid,dark_samus,m_metroid,#3d395e
+34,"Zero Suit Samus",Metroid,zero_suit_samus,m_metroid,#205ba4
+69,Ridley,Metroid,ridley,m_metroid,#71456f
+2,"Donkey Kong","Donkey Kong",donkey_kong,m_donkeykong,#f9da4a
+39,"Diddy Kong","Donkey Kong",diddy_kong,m_donkeykong,#e05a52
+72,"King K. Rool","Donkey Kong",king_k_rool,m_donkeykong,#65873b
+32,Pit,"Kid Icarus",pit,m_palutena,#acdafa
+33,"Dark Pit","Kid Icarus",dark_pit,m_palutena,#875cbe
+57,Palutena,"Kid Icarus",palutena,m_palutena,#91e5c1
+7,Kirby,Kirby,kirby,m_kirby,#ffaec7
+31,"Meta Knight",Kirby,meta_knight,m_kirby,#5367b0
+42,"King Dedede",Kirby,king_dedede,m_kirby,#fce87b
+54,"Mii Brawler",Mii,mii_fighter,m_mii,#5dc1e6
+55,"Mii Sword Fighter",Mii,mii_fighter,m_mii,#5dc1e6
+56,"Mii Gunner",Mii,mii_fighter,m_mii,#5dc1e6
+8,Fox,"Star Fox",fox,m_starfox,#307cdf
+22,Falco,"Star Fox",falco,m_starfox,#69b0de
+47,Wolf,"Star Fox",wolf,m_starfox,#cccccc
+48,Villager,"Animal Crossing",villager,m_doubutsu,#83a88e
+73,Isabelle,"Animal Crossing",isabelle,m_doubutsu,#c4d37e
+70,Simon,CastleVania,simon,m_dracula,#76150e
+71,Richter,CastleVania,richter,m_dracula,#2a6db0
+11,Ness,Earthbound,ness,m_mother,#de413d
+40,Lucas,Earthbound,lucas,m_mother,#e06833
+63,Ryu,"Street Fighter",ryu,m_streetfighter,#d0504d
+64,Ken,"Street Fighter",ken,m_streetfighter,#cdd7dc
+78,"Banjo & Kazooie","Banjo & Kazooie",banjo_and_kazooie,m_banjo_and_kazooie,#fcdd76
+67,Bayonetta,Bayonetta,bayonetta,m_bayonetta,#a5a1e0
+77,Hero,"Dragon Quest",hero,m_dragonquest,#ccb3f4
+62,"Duck Hunt","Duck Hunt",duck_hunt,m_duckhunt,#8c5d3a
+12,"Captain Falcon",F-Zero,captain_falcon,m_f-zero,#8e8adc
+79,Terry,"Fatal Fury",terry,m_garou,#6eb5ff
+65,Cloud,"Final Fantasy",cloud,m_finalfantasy,#419384
+30,"Mr. Game & Watch","Game & Watch",mr_game_and_watch,m_gamewatch,#a4a190
+17,"Ice Climbers","Ice Climber",ice_climbers,m_iceclimber,#a0cafe
+49,"Mega Man","Mega Man",mega_man,m_rockman,#86c1e0
+36,Snake,"Metal Gear Solid",snake,m_metalgear,#658198
+58,Pac-Man,Pac-Man,pac_man,m_pacman,#fcb541
+76,Joker,"Persona 5",joker,m_persona,#b41201
+43,Olimar,Pikmin,olimar,m_pikmin,#ccefb0
+52,"Little Mac",Punch-Out,little_mac,m_punch_out,#5d8f72
+45,R.O.B.,R.O.B.,rob,m_famicomrobot,#b2b8bd
+41,Sonic,"Sonic the Hedgehog",sonic,m_sonic,#659deb
+68,Inkling,Splatoon,inkling,m_splatoon,#f02d7d
+35,Wario,"Wario Ware",wario,m_wario,#fee71f
+50,"Wii Fit Trainer","Wii Fit",wii_fit_trainer,m_wii_fit,#cccccc
+60,Shulk,Xenoblade,shulk,m_xenoblade,#d5647a
+6,Yoshi,Yoshi,yoshi,m_yoshi,#83cd65
