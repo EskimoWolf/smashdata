@@ -22,7 +22,7 @@
     {
       "label": "Bradley",
       "backgroundColor": "red",
-      "borderColor": "#6B59A6",
+      "borderColor": "#2A0273",
       "fill": false,
       "spanGaps": false,
       "data": [
@@ -48,15 +48,33 @@
     {
       "label": "Colby",
       "backgroundColor": "red",
-      "borderColor": "#CF5F5C",
+      "borderColor": "#373A6A",
       "fill": false,
       "spanGaps": false,
-      "data": [30, 35, 33, 55, 57, 25, 0, 50, 50, 33, 0, 0, 0, 0, 25, 62, 48]
+      "data": [
+        30,
+        35,
+        33,
+        55,
+        57,
+        25,
+        "",
+        50,
+        50,
+        33,
+        "",
+        "",
+        "",
+        "",
+        25,
+        62,
+        48
+      ]
     },
     {
       "label": "Kyle",
       "backgroundColor": "red",
-      "borderColor": "#A8E9E6",
+      "borderColor": "#77FDFC",
       "fill": false,
       "spanGaps": false,
       "data": [
@@ -66,7 +84,7 @@
         22,
         20,
         62,
-        0,
+        "",
         50,
         56,
         75,
@@ -82,15 +100,33 @@
     {
       "label": "Lance",
       "backgroundColor": "red",
-      "borderColor": "#655370",
+      "borderColor": "#E18320",
       "fill": false,
       "spanGaps": false,
-      "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 0, 0, 0, 0, 0, 0]
+      "data": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        18,
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "label": "Patrick",
       "backgroundColor": "red",
-      "borderColor": "#D71501",
+      "borderColor": "#29186F",
       "fill": false,
       "spanGaps": false,
       "data": [
@@ -116,10 +152,28 @@
     {
       "label": "Stephen",
       "backgroundColor": "red",
-      "borderColor": "#927E94",
+      "borderColor": "#3D0136",
       "fill": false,
       "spanGaps": false,
-      "data": [0, 0, 0, 0, 0, 0, 50, 21, 0, 17, 25, 22, 0, 29, 0, 0, 0]
+      "data": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        50,
+        21,
+        "",
+        17,
+        25,
+        22,
+        "",
+        29,
+        "",
+        "",
+        ""
+      ]
     }
   ]
 }
