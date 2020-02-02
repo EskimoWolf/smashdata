@@ -21,7 +21,7 @@
   "datasets": [
     {
       "label": "Bradley",
-      "backgroundColor": "red",
+      "backgroundColor": "#546E7A",
       "borderColor": "#FFC107",
       "fill": false,
       "spanGaps": false,
@@ -47,7 +47,7 @@
     },
     {
       "label": "Colby",
-      "backgroundColor": "red",
+      "backgroundColor": "#546E7A",
       "borderColor": "#8BC34A",
       "fill": false,
       "spanGaps": false,
@@ -73,7 +73,7 @@
     },
     {
       "label": "Kyle",
-      "backgroundColor": "red",
+      "backgroundColor": "#546E7A",
       "borderColor": "#795548",
       "fill": false,
       "spanGaps": false,
@@ -99,7 +99,7 @@
     },
     {
       "label": "Lance",
-      "backgroundColor": "red",
+      "backgroundColor": "#546E7A",
       "borderColor": "#FFD600",
       "fill": false,
       "spanGaps": false,
@@ -125,7 +125,7 @@
     },
     {
       "label": "Patrick",
-      "backgroundColor": "red",
+      "backgroundColor": "#546E7A",
       "borderColor": "#03A9F4",
       "fill": false,
       "spanGaps": false,
@@ -151,7 +151,7 @@
     },
     {
       "label": "Stephen",
-      "backgroundColor": "red",
+      "backgroundColor": "#546E7A",
       "borderColor": "#004D40",
       "fill": false,
       "spanGaps": false,
