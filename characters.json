@@ -1,562 +1,598 @@
 [
-	{
-		"id" : 1,
-		"name" : "Mario",
-		"series" : "Super Mario",
-		"color" : "#ff4026",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/mario.png"
-	},
-	{
-		"id" : 10,
-		"name" : "Luigi",
-		"series" : "Super Mario",
-		"color" : "#5ea444",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/luigi.png"
-	},
-	{
-		"id" : 14,
-		"name" : "Peach",
-		"series" : "Super Mario",
-		"color" : "#f5c9f0",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/peach.png"
-	},
-	{
-		"id" : 15,
-		"name" : "Daisy",
-		"series" : "Super Mario",
-		"color" : "#f0bb2c",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/daisy.png"
-	},
-	{
-		"id" : 16,
-		"name" : "Bowser",
-		"series" : "Super Mario",
-		"color" : "#44745e",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/bowser.png"
-	},
-	{
-		"id" : 20,
-		"name" : "Dr. Mario",
-		"series" : "Super Mario",
-		"color" : "#e86c6d",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/dr_mario.png"
-	},
-	{
-		"id" : 51,
-		"name" : "Rosalina & Luma",
-		"series" : "Super Mario",
-		"color" : "#98d5cd",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/rosalina_and_luma.png"
-	},
-	{
-		"id" : 61,
-		"name" : "Bowser Jr.",
-		"series" : "Super Mario",
-		"color" : "#59bf38",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/bowser_jr.png"
-	},
-	{
-		"id" : 75,
-		"name" : "Piranha Plant",
-		"series" : "Super Mario",
-		"color" : "#00aa82",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/packun_flower.png"
-	},
-	{
-		"id" : 23,
-		"name" : "Marth",
-		"series" : "Fire Emblem",
-		"color" : "#5da8c8",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/marth.png"
-	},
-	{
-		"id" : 24,
-		"name" : "Lucina",
-		"series" : "Fire Emblem",
-		"color" : "#7ea6c7",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/lucina.png"
-	},
-	{
-		"id" : 28,
-		"name" : "Roy",
-		"series" : "Fire Emblem",
-		"color" : "#74b65b",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/roy.png"
-	},
-	{
-		"id" : 29,
-		"name" : "Chrom",
-		"series" : "Fire Emblem",
-		"color" : "#b4b4cf",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/chrom.png"
-	},
-	{
-		"id" : 37,
-		"name" : "Ike",
-		"series" : "Fire Emblem",
-		"color" : "#b64f3e",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/ike.png"
-	},
-	{
-		"id" : 59,
-		"name" : "Robin",
-		"series" : "Fire Emblem",
-		"color" : "#c387d9",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/robin.png"
-	},
-	{
-		"id" : 66,
-		"name" : "Corrin",
-		"series" : "Fire Emblem",
-		"color" : "#63a7c0",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/corrin.png"
-	},
-	{
-		"id" : 80,
-		"name" : "Byleth",
-		"series" : "Fire Emblem",
-		"color" : "#9CE0B8",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/byleth.png"
-	},
-	{
-		"id" : 9,
-		"name" : "Pikachu",
-		"series" : "Pokémon",
-		"color" : "#ffb912",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/pikachu.png"
-	},
-	{
-		"id" : 13,
-		"name" : "Jigglypuff",
-		"series" : "Pokémon",
-		"color" : "#f29bf6",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/jigglypuff.png"
-	},
-	{
-		"id" : 21,
-		"name" : "Pichu",
-		"series" : "Pokémon",
-		"color" : "#dedc1f",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/pichu.png"
-	},
-	{
-		"id" : 27,
-		"name" : "Mewtwo",
-		"series" : "Pokémon",
-		"color" : "#927bc5",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/mewtwo.png"
-	},
-	{
-		"id" : 38,
-		"name" : "Pokémon Trainer",
-		"series" : "Pokémon",
-		"color" : "#ffc004",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/pokemon_trainer.png"
-	},
-	{
-		"id" : 44,
-		"name" : "Lucario",
-		"series" : "Pokémon",
-		"color" : "#b8e3fc",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/lucario.png"
-	},
-	{
-		"id" : 53,
-		"name" : "Greninja",
-		"series" : "Pokémon",
-		"color" : "#5673a5",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/greninja.png"
-	},
-	{
-		"id" : 74,
-		"name" : "Incineroar",
-		"series" : "Pokémon",
-		"color" : "#ffd902",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/gaogaen.png"
-	},
-	{
-		"id" : 3,
-		"name" : "Link",
-		"series" : "The Legend of Zelda",
-		"color" : "#1c94c3",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/link.png"
-	},
-	{
-		"id" : 18,
-		"name" : "Sheik",
-		"series" : "The Legend of Zelda",
-		"color" : "#756fd0",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/sheik.png"
-	},
-	{
-		"id" : 19,
-		"name" : "Zelda",
-		"series" : "The Legend of Zelda",
-		"color" : "#fdeaa4",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/zelda.png"
-	},
-	{
-		"id" : 25,
-		"name" : "Young Link",
-		"series" : "The Legend of Zelda",
-		"color" : "#a5d160",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/young_link.png"
-	},
-	{
-		"id" : 26,
-		"name" : "Ganondorf",
-		"series" : "The Legend of Zelda",
-		"color" : "#7974a4",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/ganondorf.png"
-	},
-	{
-		"id" : 46,
-		"name" : "Toon Link",
-		"series" : "The Legend of Zelda",
-		"color" : "#8ce689",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/toon_link.png"
-	},
-	{
-		"id" : 4,
-		"name" : "Samus",
-		"series" : "Metroid",
-		"color" : "#353f56",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/samus.png"
-	},
-	{
-		"id" : 5,
-		"name" : "Dark Samus",
-		"series" : "Metroid",
-		"color" : "#3d395e",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/dark_samus.png"
-	},
-	{
-		"id" : 34,
-		"name" : "Zero Suit Samus",
-		"series" : "Metroid",
-		"color" : "#205ba4",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/zero_suit_samus.png"
-	},
-	{
-		"id" : 69,
-		"name" : "Ridley",
-		"series" : "Metroid",
-		"color" : "#71456f",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/ridley.png"
-	},
-	{
-		"id" : 2,
-		"name" : "Donkey Kong",
-		"series" : "Donkey Kong",
-		"color" : "#f9da4a",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/donkey_kong.png"
-	},
-	{
-		"id" : 39,
-		"name" : "Diddy Kong",
-		"series" : "Donkey Kong",
-		"color" : "#e05a52",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/diddy_kong.png"
-	},
-	{
-		"id" : 72,
-		"name" : "King K. Rool",
-		"series" : "Donkey Kong",
-		"color" : "#65873b",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/king_k_rool.png"
-	},
-	{
-		"id" : 32,
-		"name" : "Pit",
-		"series" : "Kid Icarus",
-		"color" : "#acdafa",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/pit.png"
-	},
-	{
-		"id" : 33,
-		"name" : "Dark Pit",
-		"series" : "Kid Icarus",
-		"color" : "#875cbe",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/dark_pit.png"
-	},
-	{
-		"id" : 57,
-		"name" : "Palutena",
-		"series" : "Kid Icarus",
-		"color" : "#91e5c1",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/palutena.png"
-	},
-	{
-		"id" : 7,
-		"name" : "Kirby",
-		"series" : "Kirby",
-		"color" : "#ffaec7",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/kirby.png"
-	},
-	{
-		"id" : 31,
-		"name" : "Meta Knight",
-		"series" : "Kirby",
-		"color" : "#5367b0",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/meta_knight.png"
-	},
-	{
-		"id" : 42,
-		"name" : "King Dedede",
-		"series" : "Kirby",
-		"color" : "#fce87b",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/king_dedede.png"
-	},
-	{
-		"id" : 54,
-		"name" : "Mii Brawler",
-		"series" : "Mii",
-		"color" : "#5dc1e6",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/mii_fighter.png"
-	},
-	{
-		"id" : 55,
-		"name" : "Mii Sword Fighter",
-		"series" : "Mii",
-		"color" : "#5dc1e6",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/mii_fighter.png"
-	},
-	{
-		"id" : 56,
-		"name" : "Mii Gunner",
-		"series" : "Mii",
-		"color" : "#5dc1e6",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/mii_fighter.png"
-	},
-	{
-		"id" : 8,
-		"name" : "Fox",
-		"series" : "Star Fox",
-		"color" : "#307cdf",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/fox.png"
-	},
-	{
-		"id" : 22,
-		"name" : "Falco",
-		"series" : "Star Fox",
-		"color" : "#69b0de",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/falco.png"
-	},
-	{
-		"id" : 47,
-		"name" : "Wolf",
-		"series" : "Star Fox",
-		"color" : "#cccccc",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/wolf.png"
-	},
-	{
-		"id" : 48,
-		"name" : "Villager",
-		"series" : "Animal Crossing",
-		"color" : "#83a88e",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/villager.png"
-	},
-	{
-		"id" : 73,
-		"name" : "Isabelle",
-		"series" : "Animal Crossing",
-		"color" : "#c4d37e",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/shizue.png"
-	},
-	{
-		"id" : 70,
-		"name" : "Simon",
-		"series" : "CastleVania",
-		"color" : "#76150e",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/simon.png"
-	},
-	{
-		"id" : 71,
-		"name" : "Richter",
-		"series" : "CastleVania",
-		"color" : "#2a6db0",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/richter.png"
-	},
-	{
-		"id" : 11,
-		"name" : "Ness",
-		"series" : "Earthbound",
-		"color" : "#de413d",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/ness.png"
-	},
-	{
-		"id" : 40,
-		"name" : "Lucas",
-		"series" : "Earthbound",
-		"color" : "#e06833",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/lucas.png"
-	},
-	{
-		"id" : 63,
-		"name" : "Ryu",
-		"series" : "Street Fighter",
-		"color" : "#d0504d",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/ryu.png"
-	},
-	{
-		"id" : 64,
-		"name" : "Ken",
-		"series" : "Street Fighter",
-		"color" : "#cdd7dc",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/ken.png"
-	},
-	{
-		"id" : 78,
-		"name" : "Banjo & Kazooie",
-		"series" : "Banjo & Kazooie",
-		"color" : "#fcdd76",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/banjo_and_kazooie.png"
-	},
-	{
-		"id" : 67,
-		"name" : "Bayonetta",
-		"series" : "Bayonetta",
-		"color" : "#a5a1e0",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/bayonetta.png"
-	},
-	{
-		"id" : 77,
-		"name" : "Hero",
-		"series" : "Dragon Quest",
-		"color" : "#ccb3f4",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/dq_hero.png"
-	},
-	{
-		"id" : 62,
-		"name" : "Duck Hunt",
-		"series" : "Duck Hunt",
-		"color" : "#8c5d3a",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/duck_hunt.png"
-	},
-	{
-		"id" : 12,
-		"name" : "Captain Falcon",
-		"series" : "F-Zero",
-		"color" : "#8e8adc",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/captain_falcon.png"
-	},
-	{
-		"id" : 79,
-		"name" : "Terry",
-		"series" : "Fatal Fury",
-		"color" : "#6eb5ff",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/terry.png"
-	},
-	{
-		"id" : 65,
-		"name" : "Cloud",
-		"series" : "Final Fantasy",
-		"color" : "#419384",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/cloud.png"
-	},
-	{
-		"id" : 30,
-		"name" : "Mr. Game & Watch",
-		"series" : "Game & Watch",
-		"color" : "#a4a190",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/mr_game_and_watch.png"
-	},
-	{
-		"id" : 17,
-		"name" : "Ice Climbers",
-		"series" : "Ice Climber",
-		"color" : "#a0cafe",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/ice_climbers.png"
-	},
-	{
-		"id" : 49,
-		"name" : "Mega Man",
-		"series" : "Mega Man",
-		"color" : "#86c1e0",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/mega_man.png"
-	},
-	{
-		"id" : 36,
-		"name" : "Snake",
-		"series" : "Metal Gear Solid",
-		"color" : "#658198",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/snake.png"
-	},
-	{
-		"id" : 58,
-		"name" : "Pac-Man",
-		"series" : "Pac-Man",
-		"color" : "#fcb541",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/pac_man.png"
-	},
-	{
-		"id" : 76,
-		"name" : "Joker",
-		"series" : "Persona 5",
-		"color" : "#b41201",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/joker.png"
-	},
-	{
-		"id" : 43,
-		"name" : "Olimar",
-		"series" : "Pikmin",
-		"color" : "#ccefb0",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/olimar.png"
-	},
-	{
-		"id" : 52,
-		"name" : "Little Mac",
-		"series" : "Punch-Out",
-		"color" : "#5d8f72",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/little_mac.png"
-	},
-	{
-		"id" : 45,
-		"name" : "R.O.B.",
-		"series" : "R.O.B.",
-		"color" : "#b2b8bd",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/rob.png"
-	},
-	{
-		"id" : 41,
-		"name" : "Sonic",
-		"series" : "Sonic the Hedgehog",
-		"color" : "#659deb",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/sonic.png"
-	},
-	{
-		"id" : 68,
-		"name" : "Inkling",
-		"series" : "Splatoon",
-		"color" : "#f02d7d",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/inkling.png"
-	},
-	{
-		"id" : 35,
-		"name" : "Wario",
-		"series" : "Wario Ware",
-		"color" : "#fee71f",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/wario.png"
-	},
-	{
-		"id" : 50,
-		"name" : "Wii Fit Trainer",
-		"series" : "Wii Fit",
-		"color" : "#cccccc",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/wii_fit_trainer.png"
-	},
-	{
-		"id" : 60,
-		"name" : "Shulk",
-		"series" : "Xenoblade",
-		"color" : "#d5647a",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/shulk.png"
-	},
-	{
-		"id" : 6,
-		"name" : "Yoshi",
-		"series" : "Yoshi",
-		"color" : "#83cd65",
-		"image_url" : "https://www.smashbros.com/assets_v2/img/fighter/pict/yoshi.png"
-	}
+  { "header": "Super Mario" },
+  {
+    "id": 1,
+    "name": "Mario",
+    "series": "Super Mario",
+    "color": "#ff4026",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/mario.png"
+  },
+  {
+    "id": 10,
+    "name": "Luigi",
+    "series": "Super Mario",
+    "color": "#5ea444",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/luigi.png"
+  },
+  {
+    "id": 14,
+    "name": "Peach",
+    "series": "Super Mario",
+    "color": "#f5c9f0",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/peach.png"
+  },
+  {
+    "id": 15,
+    "name": "Daisy",
+    "series": "Super Mario",
+    "color": "#f0bb2c",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/daisy.png"
+  },
+  {
+    "id": 16,
+    "name": "Bowser",
+    "series": "Super Mario",
+    "color": "#44745e",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/bowser.png"
+  },
+  {
+    "id": 20,
+    "name": "Dr. Mario",
+    "series": "Super Mario",
+    "color": "#e86c6d",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/dr_mario.png"
+  },
+  {
+    "id": 51,
+    "name": "Rosalina & Luma",
+    "series": "Super Mario",
+    "color": "#98d5cd",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/rosalina_and_luma.png"
+  },
+  {
+    "id": 61,
+    "name": "Bowser Jr.",
+    "series": "Super Mario",
+    "color": "#59bf38",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/bowser_jr.png"
+  },
+  {
+    "id": 75,
+    "name": "Piranha Plant",
+    "series": "Super Mario",
+    "color": "#00aa82",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/packun_flower.png"
+  },
+  { "header": "Fire Emblem" },
+  {
+    "id": 23,
+    "name": "Marth",
+    "series": "Fire Emblem",
+    "color": "#5da8c8",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/marth.png"
+  },
+  {
+    "id": 24,
+    "name": "Lucina",
+    "series": "Fire Emblem",
+    "color": "#7ea6c7",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/lucina.png"
+  },
+  {
+    "id": 28,
+    "name": "Roy",
+    "series": "Fire Emblem",
+    "color": "#74b65b",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/roy.png"
+  },
+  {
+    "id": 29,
+    "name": "Chrom",
+    "series": "Fire Emblem",
+    "color": "#b4b4cf",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/chrom.png"
+  },
+  {
+    "id": 37,
+    "name": "Ike",
+    "series": "Fire Emblem",
+    "color": "#b64f3e",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/ike.png"
+  },
+  {
+    "id": 59,
+    "name": "Robin",
+    "series": "Fire Emblem",
+    "color": "#c387d9",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/robin.png"
+  },
+  {
+    "id": 66,
+    "name": "Corrin",
+    "series": "Fire Emblem",
+    "color": "#63a7c0",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/corrin.png"
+  },
+  {
+    "id": 80,
+    "name": "Byleth",
+    "series": "Fire Emblem",
+    "color": "#9CE0B8",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/byleth.png"
+  },
+  { "header": "Pokémon" },
+  {
+    "id": 9,
+    "name": "Pikachu",
+    "series": "Pokémon",
+    "color": "#ffb912",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/pikachu.png"
+  },
+  {
+    "id": 13,
+    "name": "Jigglypuff",
+    "series": "Pokémon",
+    "color": "#f29bf6",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/jigglypuff.png"
+  },
+  {
+    "id": 21,
+    "name": "Pichu",
+    "series": "Pokémon",
+    "color": "#dedc1f",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/pichu.png"
+  },
+  {
+    "id": 27,
+    "name": "Mewtwo",
+    "series": "Pokémon",
+    "color": "#927bc5",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/mewtwo.png"
+  },
+  {
+    "id": 38,
+    "name": "Pokémon Trainer",
+    "series": "Pokémon",
+    "color": "#ffc004",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/pokemon_trainer.png"
+  },
+  {
+    "id": 44,
+    "name": "Lucario",
+    "series": "Pokémon",
+    "color": "#b8e3fc",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/lucario.png"
+  },
+  {
+    "id": 53,
+    "name": "Greninja",
+    "series": "Pokémon",
+    "color": "#5673a5",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/greninja.png"
+  },
+  {
+    "id": 74,
+    "name": "Incineroar",
+    "series": "Pokémon",
+    "color": "#ffd902",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/gaogaen.png"
+  },
+  { "header": "The Legend of Zelda" },
+  {
+    "id": 3,
+    "name": "Link",
+    "series": "The Legend of Zelda",
+    "color": "#1c94c3",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/link.png"
+  },
+  {
+    "id": 18,
+    "name": "Sheik",
+    "series": "The Legend of Zelda",
+    "color": "#756fd0",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/sheik.png"
+  },
+  {
+    "id": 19,
+    "name": "Zelda",
+    "series": "The Legend of Zelda",
+    "color": "#fdeaa4",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/zelda.png"
+  },
+  {
+    "id": 25,
+    "name": "Young Link",
+    "series": "The Legend of Zelda",
+    "color": "#a5d160",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/young_link.png"
+  },
+  {
+    "id": 26,
+    "name": "Ganondorf",
+    "series": "The Legend of Zelda",
+    "color": "#7974a4",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/ganondorf.png"
+  },
+  {
+    "id": 46,
+    "name": "Toon Link",
+    "series": "The Legend of Zelda",
+    "color": "#8ce689",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/toon_link.png"
+  },
+  { "header": "Metroid" },
+  {
+    "id": 4,
+    "name": "Samus",
+    "series": "Metroid",
+    "color": "#353f56",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/samus.png"
+  },
+  {
+    "id": 5,
+    "name": "Dark Samus",
+    "series": "Metroid",
+    "color": "#3d395e",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/dark_samus.png"
+  },
+  {
+    "id": 34,
+    "name": "Zero Suit Samus",
+    "series": "Metroid",
+    "color": "#205ba4",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/zero_suit_samus.png"
+  },
+  {
+    "id": 69,
+    "name": "Ridley",
+    "series": "Metroid",
+    "color": "#71456f",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/ridley.png"
+  },
+  { "header": "Donkey Kong" },
+  {
+    "id": 2,
+    "name": "Donkey Kong",
+    "series": "Donkey Kong",
+    "color": "#f9da4a",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/donkey_kong.png"
+  },
+  {
+    "id": 39,
+    "name": "Diddy Kong",
+    "series": "Donkey Kong",
+    "color": "#e05a52",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/diddy_kong.png"
+  },
+  {
+    "id": 72,
+    "name": "King K. Rool",
+    "series": "Donkey Kong",
+    "color": "#65873b",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/king_k_rool.png"
+  },
+  { "header": "Kid Icarus" },
+  {
+    "id": 32,
+    "name": "Pit",
+    "series": "Kid Icarus",
+    "color": "#acdafa",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/pit.png"
+  },
+  {
+    "id": 33,
+    "name": "Dark Pit",
+    "series": "Kid Icarus",
+    "color": "#875cbe",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/dark_pit.png"
+  },
+  {
+    "id": 57,
+    "name": "Palutena",
+    "series": "Kid Icarus",
+    "color": "#91e5c1",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/palutena.png"
+  },
+  { "header": "Kirby" },
+  {
+    "id": 7,
+    "name": "Kirby",
+    "series": "Kirby",
+    "color": "#ffaec7",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/kirby.png"
+  },
+  {
+    "id": 31,
+    "name": "Meta Knight",
+    "series": "Kirby",
+    "color": "#5367b0",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/meta_knight.png"
+  },
+  {
+    "id": 42,
+    "name": "King Dedede",
+    "series": "Kirby",
+    "color": "#fce87b",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/king_dedede.png"
+  },
+  { "header": "Mii" },
+  {
+    "id": 54,
+    "name": "Mii Brawler",
+    "series": "Mii",
+    "color": "#5dc1e6",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/mii_fighter.png"
+  },
+  {
+    "id": 55,
+    "name": "Mii Sword Fighter",
+    "series": "Mii",
+    "color": "#5dc1e6",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/mii_fighter.png"
+  },
+  {
+    "id": 56,
+    "name": "Mii Gunner",
+    "series": "Mii",
+    "color": "#5dc1e6",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/mii_fighter.png"
+  },
+  { "header": "Star Fox" },
+  {
+    "id": 8,
+    "name": "Fox",
+    "series": "Star Fox",
+    "color": "#307cdf",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/fox.png"
+  },
+  {
+    "id": 22,
+    "name": "Falco",
+    "series": "Star Fox",
+    "color": "#69b0de",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/falco.png"
+  },
+  {
+    "id": 47,
+    "name": "Wolf",
+    "series": "Star Fox",
+    "color": "#cccccc",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/wolf.png"
+  },
+  { "header": "Animal Crossing" },
+  {
+    "id": 48,
+    "name": "Villager",
+    "series": "Animal Crossing",
+    "color": "#83a88e",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/villager.png"
+  },
+  {
+    "id": 73,
+    "name": "Isabelle",
+    "series": "Animal Crossing",
+    "color": "#c4d37e",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/shizue.png"
+  },
+  { "header": "CastleVania" },
+  {
+    "id": 70,
+    "name": "Simon",
+    "series": "CastleVania",
+    "color": "#76150e",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/simon.png"
+  },
+  {
+    "id": 71,
+    "name": "Richter",
+    "series": "CastleVania",
+    "color": "#2a6db0",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/richter.png"
+  },
+  { "header": "Earthbound" },
+  {
+    "id": 11,
+    "name": "Ness",
+    "series": "Earthbound",
+    "color": "#de413d",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/ness.png"
+  },
+  {
+    "id": 40,
+    "name": "Lucas",
+    "series": "Earthbound",
+    "color": "#e06833",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/lucas.png"
+  },
+  { "header": "Street Fighter" },
+  {
+    "id": 63,
+    "name": "Ryu",
+    "series": "Street Fighter",
+    "color": "#d0504d",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/ryu.png"
+  },
+  {
+    "id": 64,
+    "name": "Ken",
+    "series": "Street Fighter",
+    "color": "#cdd7dc",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/ken.png"
+  },
+  { "header": "Banjo & Kazooie" },
+  {
+    "id": 78,
+    "name": "Banjo & Kazooie",
+    "series": "Banjo & Kazooie",
+    "color": "#fcdd76",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/banjo_and_kazooie.png"
+  },
+  { "header": "Bayonetta" },
+  {
+    "id": 67,
+    "name": "Bayonetta",
+    "series": "Bayonetta",
+    "color": "#a5a1e0",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/bayonetta.png"
+  },
+  { "header": "Dragon Quest" },
+  {
+    "id": 77,
+    "name": "Hero",
+    "series": "Dragon Quest",
+    "color": "#ccb3f4",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/dq_hero.png"
+  },
+  { "header": "Duck Hunt" },
+  {
+    "id": 62,
+    "name": "Duck Hunt",
+    "series": "Duck Hunt",
+    "color": "#8c5d3a",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/duck_hunt.png"
+  },
+  { "header": "F-Zero" },
+  {
+    "id": 12,
+    "name": "Captain Falcon",
+    "series": "F-Zero",
+    "color": "#8e8adc",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/captain_falcon.png"
+  },
+  { "header": "Fatal Fury" },
+  {
+    "id": 79,
+    "name": "Terry",
+    "series": "Fatal Fury",
+    "color": "#6eb5ff",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/terry.png"
+  },
+  { "header": "Final Fantasy" },
+  {
+    "id": 65,
+    "name": "Cloud",
+    "series": "Final Fantasy",
+    "color": "#419384",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/cloud.png"
+  },
+  { "header": "Game & Watch" },
+  {
+    "id": 30,
+    "name": "Mr. Game & Watch",
+    "series": "Game & Watch",
+    "color": "#a4a190",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/mr_game_and_watch.png"
+  },
+  { "header": "Ice Climber" },
+  {
+    "id": 17,
+    "name": "Ice Climbers",
+    "series": "Ice Climber",
+    "color": "#a0cafe",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/ice_climbers.png"
+  },
+  { "header": "Mega Man" },
+  {
+    "id": 49,
+    "name": "Mega Man",
+    "series": "Mega Man",
+    "color": "#86c1e0",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/mega_man.png"
+  },
+  { "header": "Metal Gear Solid" },
+  {
+    "id": 36,
+    "name": "Snake",
+    "series": "Metal Gear Solid",
+    "color": "#658198",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/snake.png"
+  },
+  { "header": "Pac-Man" },
+  {
+    "id": 58,
+    "name": "Pac-Man",
+    "series": "Pac-Man",
+    "color": "#fcb541",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/pac_man.png"
+  },
+  { "header": "Persona 5" },
+  {
+    "id": 76,
+    "name": "Joker",
+    "series": "Persona 5",
+    "color": "#b41201",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/joker.png"
+  },
+  { "header": "Pikmin" },
+  {
+    "id": 43,
+    "name": "Olimar",
+    "series": "Pikmin",
+    "color": "#ccefb0",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/olimar.png"
+  },
+  { "header": "Punch-Out" },
+  {
+    "id": 52,
+    "name": "Little Mac",
+    "series": "Punch-Out",
+    "color": "#5d8f72",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/little_mac.png"
+  },
+  { "header": "R.O.B." },
+  {
+    "id": 45,
+    "name": "R.O.B.",
+    "series": "R.O.B.",
+    "color": "#b2b8bd",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/rob.png"
+  },
+  { "header": "Sonic the Hedgehog" },
+  {
+    "id": 41,
+    "name": "Sonic",
+    "series": "Sonic the Hedgehog",
+    "color": "#659deb",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/sonic.png"
+  },
+  { "header": "Splatoon" },
+  {
+    "id": 68,
+    "name": "Inkling",
+    "series": "Splatoon",
+    "color": "#f02d7d",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/inkling.png"
+  },
+  { "header": "Wario Ware" },
+  {
+    "id": 35,
+    "name": "Wario",
+    "series": "Wario Ware",
+    "color": "#fee71f",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/wario.png"
+  },
+  { "header": "Wii Fit" },
+  {
+    "id": 50,
+    "name": "Wii Fit Trainer",
+    "series": "Wii Fit",
+    "color": "#cccccc",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/wii_fit_trainer.png"
+  },
+  { "header": "Xenoblade" },
+  {
+    "id": 60,
+    "name": "Shulk",
+    "series": "Xenoblade",
+    "color": "#d5647a",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/shulk.png"
+  },
+  { "header": "Yoshi" },
+  {
+    "id": 6,
+    "name": "Yoshi",
+    "series": "Yoshi",
+    "color": "#83cd65",
+    "image_url": "https://www.smashbros.com/assets_v2/img/fighter/pict/yoshi.png"
+  }
 ]
