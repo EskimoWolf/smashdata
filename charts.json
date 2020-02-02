@@ -22,7 +22,8 @@
     {
       "label": "Bradley",
       "backgroundColor": "red",
-      "borderColor": "#2851AC",
+      "borderColor": "#CA3330",
+      "fill": false,
       "data": [
         75,
         72,
@@ -46,13 +47,15 @@
     {
       "label": "Colby",
       "backgroundColor": "red",
-      "borderColor": "#117F2D",
+      "borderColor": "#24E411",
+      "fill": false,
       "data": [30, 35, 33, 55, 57, 25, 0, 50, 50, 33, 0, 0, 0, 0, 25, 62, 48]
     },
     {
       "label": "Kyle",
       "backgroundColor": "red",
-      "borderColor": "#118DE1",
+      "borderColor": "#835616",
+      "fill": false,
       "data": [
         50,
         48,
@@ -76,13 +79,15 @@
     {
       "label": "Lance",
       "backgroundColor": "red",
-      "borderColor": "#EE4830",
+      "borderColor": "#558DE7",
+      "fill": false,
       "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 0, 0, 0, 0, 0, 0]
     },
     {
       "label": "Patrick",
       "backgroundColor": "red",
-      "borderColor": "#DBA85E",
+      "borderColor": "#F98D26",
+      "fill": false,
       "data": [
         25,
         34,
@@ -106,7 +111,8 @@
     {
       "label": "Stephen",
       "backgroundColor": "red",
-      "borderColor": "#D5CC79",
+      "borderColor": "#6EA58E",
+      "fill": false,
       "data": [0, 0, 0, 0, 0, 0, 50, 21, 0, 17, 25, 22, 0, 29, 0, 0, 0]
     }
   ]
