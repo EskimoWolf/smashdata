@@ -1,0 +1,113 @@
+{
+  "labels": [
+    "2019;August;33",
+    "2019;August;34",
+    "2019;August;35",
+    "2019;September;36",
+    "2019;September;37",
+    "2019;September;39",
+    "2019;October;40",
+    "2019;October;41",
+    "2019;October;42",
+    "2019;October;43",
+    "2019;October;44",
+    "2019;November;45",
+    "2019;November;46",
+    "2019;November;47",
+    "2020;January;2",
+    "2020;January;5",
+    "2020;February;5"
+  ],
+  "datasets": [
+    {
+      "label": "Bradley",
+      "backgroundColor": "red",
+      "borderColor": "#2851AC",
+      "data": [
+        75,
+        72,
+        73,
+        73,
+        75,
+        74,
+        68,
+        79,
+        72,
+        72,
+        73,
+        70,
+        65,
+        81,
+        61,
+        67,
+        74
+      ]
+    },
+    {
+      "label": "Colby",
+      "backgroundColor": "red",
+      "borderColor": "#117F2D",
+      "data": [30, 35, 33, 55, 57, 25, 0, 50, 50, 33, 0, 0, 0, 0, 25, 62, 48]
+    },
+    {
+      "label": "Kyle",
+      "backgroundColor": "red",
+      "borderColor": "#118DE1",
+      "data": [
+        50,
+        48,
+        25,
+        22,
+        20,
+        62,
+        0,
+        50,
+        56,
+        75,
+        33,
+        47,
+        45,
+        62,
+        53,
+        22,
+        29
+      ]
+    },
+    {
+      "label": "Lance",
+      "backgroundColor": "red",
+      "borderColor": "#EE4830",
+      "data": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 0, 0, 0, 0, 0, 0]
+    },
+    {
+      "label": "Patrick",
+      "backgroundColor": "red",
+      "borderColor": "#DBA85E",
+      "data": [
+        25,
+        34,
+        39,
+        35,
+        29,
+        24,
+        35,
+        29,
+        26,
+        32,
+        35,
+        32,
+        35,
+        19,
+        40,
+        35,
+        24
+      ]
+    },
+    {
+      "label": "Stephen",
+      "backgroundColor": "red",
+      "borderColor": "#D5CC79",
+      "data": [0, 0, 0, 0, 0, 0, 50, 21, 0, 17, 25, 22, 0, 29, 0, 0, 0]
+    }
+  ]
+}
