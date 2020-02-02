@@ -1,818 +1,179 @@
-[
-	{
-		"name" : "Bradley",
-		"color" : "#FFC107",
-		"year" : 2019,
-		"month" : "August",
-		"week" : 33,
-		"percent" : 75
-	},
-	{
-		"name" : "Bradley",
-		"color" : "#FFC107",
-		"year" : 2019,
-		"month" : "August",
-		"week" : 34,
-		"percent" : 72
-	},
-	{
-		"name" : "Bradley",
-		"color" : "#FFC107",
-		"year" : 2019,
-		"month" : "August",
-		"week" : 35,
-		"percent" : 73
-	},
-	{
-		"name" : "Bradley",
-		"color" : "#FFC107",
-		"year" : 2019,
-		"month" : "September",
-		"week" : 36,
-		"percent" : 73
-	},
-	{
-		"name" : "Bradley",
-		"color" : "#FFC107",
-		"year" : 2019,
-		"month" : "September",
-		"week" : 37,
-		"percent" : 75
-	},
-	{
-		"name" : "Bradley",
-		"color" : "#FFC107",
-		"year" : 2019,
-		"month" : "September",
-		"week" : 39,
-		"percent" : 74
-	},
-	{
-		"name" : "Bradley",
-		"color" : "#FFC107",
-		"year" : 2019,
-		"month" : "October",
-		"week" : 40,
-		"percent" : 68
-	},
-	{
-		"name" : "Bradley",
-		"color" : "#FFC107",
-		"year" : 2019,
-		"month" : "October",
-		"week" : 41,
-		"percent" : 79
-	},
-	{
-		"name" : "Bradley",
-		"color" : "#FFC107",
-		"year" : 2019,
-		"month" : "October",
-		"week" : 42,
-		"percent" : 72
-	},
-	{
-		"name" : "Bradley",
-		"color" : "#FFC107",
-		"year" : 2019,
-		"month" : "October",
-		"week" : 43,
-		"percent" : 72
-	},
-	{
-		"name" : "Bradley",
-		"color" : "#FFC107",
-		"year" : 2019,
-		"month" : "October",
-		"week" : 44,
-		"percent" : 73
-	},
-	{
-		"name" : "Bradley",
-		"color" : "#FFC107",
-		"year" : 2019,
-		"month" : "November",
-		"week" : 45,
-		"percent" : 70
-	},
-	{
-		"name" : "Bradley",
-		"color" : "#FFC107",
-		"year" : 2019,
-		"month" : "November",
-		"week" : 46,
-		"percent" : 65
-	},
-	{
-		"name" : "Bradley",
-		"color" : "#FFC107",
-		"year" : 2019,
-		"month" : "November",
-		"week" : 47,
-		"percent" : 81
-	},
-	{
-		"name" : "Bradley",
-		"color" : "#FFC107",
-		"year" : 2020,
-		"month" : "January",
-		"week" : 2,
-		"percent" : 61
-	},
-	{
-		"name" : "Bradley",
-		"color" : "#FFC107",
-		"year" : 2020,
-		"month" : "January",
-		"week" : 5,
-		"percent" : 67
-	},
-	{
-		"name" : "Bradley",
-		"color" : "#FFC107",
-		"year" : 2020,
-		"month" : "February",
-		"week" : 5,
-		"percent" : 74
-	},
-	{
-		"name" : "Colby",
-		"color" : "#8BC34A",
-		"year" : 2019,
-		"month" : "August",
-		"week" : 33,
-		"percent" : 30
-	},
-	{
-		"name" : "Colby",
-		"color" : "#8BC34A",
-		"year" : 2019,
-		"month" : "August",
-		"week" : 34,
-		"percent" : 35
-	},
-	{
-		"name" : "Colby",
-		"color" : "#8BC34A",
-		"year" : 2019,
-		"month" : "August",
-		"week" : 35,
-		"percent" : 33
-	},
-	{
-		"name" : "Colby",
-		"color" : "#8BC34A",
-		"year" : 2019,
-		"month" : "September",
-		"week" : 36,
-		"percent" : 55
-	},
-	{
-		"name" : "Colby",
-		"color" : "#8BC34A",
-		"year" : 2019,
-		"month" : "September",
-		"week" : 37,
-		"percent" : 57
-	},
-	{
-		"name" : "Colby",
-		"color" : "#8BC34A",
-		"year" : 2019,
-		"month" : "September",
-		"week" : 39,
-		"percent" : 25
-	},
-	{
-		"name" : "Colby",
-		"color" : "#8BC34A",
-		"year" : 2019,
-		"month" : "October",
-		"week" : 40,
-		"percent" : 0
-	},
-	{
-		"name" : "Colby",
-		"color" : "#8BC34A",
-		"year" : 2019,
-		"month" : "October",
-		"week" : 41,
-		"percent" : 50
-	},
-	{
-		"name" : "Colby",
-		"color" : "#8BC34A",
-		"year" : 2019,
-		"month" : "October",
-		"week" : 42,
-		"percent" : 50
-	},
-	{
-		"name" : "Colby",
-		"color" : "#8BC34A",
-		"year" : 2019,
-		"month" : "October",
-		"week" : 43,
-		"percent" : 33
-	},
-	{
-		"name" : "Colby",
-		"color" : "#8BC34A",
-		"year" : 2019,
-		"month" : "October",
-		"week" : 44,
-		"percent" : 0
-	},
-	{
-		"name" : "Colby",
-		"color" : "#8BC34A",
-		"year" : 2019,
-		"month" : "November",
-		"week" : 45,
-		"percent" : 0
-	},
-	{
-		"name" : "Colby",
-		"color" : "#8BC34A",
-		"year" : 2019,
-		"month" : "November",
-		"week" : 46,
-		"percent" : 0
-	},
-	{
-		"name" : "Colby",
-		"color" : "#8BC34A",
-		"year" : 2019,
-		"month" : "November",
-		"week" : 47,
-		"percent" : 0
-	},
-	{
-		"name" : "Colby",
-		"color" : "#8BC34A",
-		"year" : 2020,
-		"month" : "January",
-		"week" : 2,
-		"percent" : 25
-	},
-	{
-		"name" : "Colby",
-		"color" : "#8BC34A",
-		"year" : 2020,
-		"month" : "January",
-		"week" : 5,
-		"percent" : 62
-	},
-	{
-		"name" : "Colby",
-		"color" : "#8BC34A",
-		"year" : 2020,
-		"month" : "February",
-		"week" : 5,
-		"percent" : 48
-	},
-	{
-		"name" : "Kyle",
-		"color" : "#EF5350",
-		"year" : 2019,
-		"month" : "August",
-		"week" : 33,
-		"percent" : 50
-	},
-	{
-		"name" : "Kyle",
-		"color" : "#EF5350",
-		"year" : 2019,
-		"month" : "August",
-		"week" : 34,
-		"percent" : 48
-	},
-	{
-		"name" : "Kyle",
-		"color" : "#EF5350",
-		"year" : 2019,
-		"month" : "August",
-		"week" : 35,
-		"percent" : 25
-	},
-	{
-		"name" : "Kyle",
-		"color" : "#EF5350",
-		"year" : 2019,
-		"month" : "September",
-		"week" : 36,
-		"percent" : 22
-	},
-	{
-		"name" : "Kyle",
-		"color" : "#EF5350",
-		"year" : 2019,
-		"month" : "September",
-		"week" : 37,
-		"percent" : 20
-	},
-	{
-		"name" : "Kyle",
-		"color" : "#EF5350",
-		"year" : 2019,
-		"month" : "September",
-		"week" : 39,
-		"percent" : 62
-	},
-	{
-		"name" : "Kyle",
-		"color" : "#EF5350",
-		"year" : 2019,
-		"month" : "October",
-		"week" : 40,
-		"percent" : 0
-	},
-	{
-		"name" : "Kyle",
-		"color" : "#EF5350",
-		"year" : 2019,
-		"month" : "October",
-		"week" : 41,
-		"percent" : 50
-	},
-	{
-		"name" : "Kyle",
-		"color" : "#EF5350",
-		"year" : 2019,
-		"month" : "October",
-		"week" : 42,
-		"percent" : 56
-	},
-	{
-		"name" : "Kyle",
-		"color" : "#EF5350",
-		"year" : 2019,
-		"month" : "October",
-		"week" : 43,
-		"percent" : 75
-	},
-	{
-		"name" : "Kyle",
-		"color" : "#EF5350",
-		"year" : 2019,
-		"month" : "October",
-		"week" : 44,
-		"percent" : 33
-	},
-	{
-		"name" : "Kyle",
-		"color" : "#EF5350",
-		"year" : 2019,
-		"month" : "November",
-		"week" : 45,
-		"percent" : 47
-	},
-	{
-		"name" : "Kyle",
-		"color" : "#EF5350",
-		"year" : 2019,
-		"month" : "November",
-		"week" : 46,
-		"percent" : 45
-	},
-	{
-		"name" : "Kyle",
-		"color" : "#EF5350",
-		"year" : 2019,
-		"month" : "November",
-		"week" : 47,
-		"percent" : 62
-	},
-	{
-		"name" : "Kyle",
-		"color" : "#EF5350",
-		"year" : 2020,
-		"month" : "January",
-		"week" : 2,
-		"percent" : 53
-	},
-	{
-		"name" : "Kyle",
-		"color" : "#EF5350",
-		"year" : 2020,
-		"month" : "January",
-		"week" : 5,
-		"percent" : 22
-	},
-	{
-		"name" : "Kyle",
-		"color" : "#EF5350",
-		"year" : 2020,
-		"month" : "February",
-		"week" : 5,
-		"percent" : 29
-	},
-	{
-		"name" : "Lance",
-		"color" : "#FFD600",
-		"year" : 2019,
-		"month" : "August",
-		"week" : 33,
-		"percent" : 0
-	},
-	{
-		"name" : "Lance",
-		"color" : "#FFD600",
-		"year" : 2019,
-		"month" : "August",
-		"week" : 34,
-		"percent" : 0
-	},
-	{
-		"name" : "Lance",
-		"color" : "#FFD600",
-		"year" : 2019,
-		"month" : "August",
-		"week" : 35,
-		"percent" : 0
-	},
-	{
-		"name" : "Lance",
-		"color" : "#FFD600",
-		"year" : 2019,
-		"month" : "September",
-		"week" : 36,
-		"percent" : 0
-	},
-	{
-		"name" : "Lance",
-		"color" : "#FFD600",
-		"year" : 2019,
-		"month" : "September",
-		"week" : 37,
-		"percent" : 0
-	},
-	{
-		"name" : "Lance",
-		"color" : "#FFD600",
-		"year" : 2019,
-		"month" : "September",
-		"week" : 39,
-		"percent" : 0
-	},
-	{
-		"name" : "Lance",
-		"color" : "#FFD600",
-		"year" : 2019,
-		"month" : "October",
-		"week" : 40,
-		"percent" : 0
-	},
-	{
-		"name" : "Lance",
-		"color" : "#FFD600",
-		"year" : 2019,
-		"month" : "October",
-		"week" : 41,
-		"percent" : 0
-	},
-	{
-		"name" : "Lance",
-		"color" : "#FFD600",
-		"year" : 2019,
-		"month" : "October",
-		"week" : 42,
-		"percent" : 0
-	},
-	{
-		"name" : "Lance",
-		"color" : "#FFD600",
-		"year" : 2019,
-		"month" : "October",
-		"week" : 43,
-		"percent" : 0
-	},
-	{
-		"name" : "Lance",
-		"color" : "#FFD600",
-		"year" : 2019,
-		"month" : "October",
-		"week" : 44,
-		"percent" : 18
-	},
-	{
-		"name" : "Lance",
-		"color" : "#FFD600",
-		"year" : 2019,
-		"month" : "November",
-		"week" : 45,
-		"percent" : 0
-	},
-	{
-		"name" : "Lance",
-		"color" : "#FFD600",
-		"year" : 2019,
-		"month" : "November",
-		"week" : 46,
-		"percent" : 0
-	},
-	{
-		"name" : "Lance",
-		"color" : "#FFD600",
-		"year" : 2019,
-		"month" : "November",
-		"week" : 47,
-		"percent" : 0
-	},
-	{
-		"name" : "Lance",
-		"color" : "#FFD600",
-		"year" : 2020,
-		"month" : "January",
-		"week" : 2,
-		"percent" : 0
-	},
-	{
-		"name" : "Lance",
-		"color" : "#FFD600",
-		"year" : 2020,
-		"month" : "January",
-		"week" : 5,
-		"percent" : 0
-	},
-	{
-		"name" : "Lance",
-		"color" : "#FFD600",
-		"year" : 2020,
-		"month" : "February",
-		"week" : 5,
-		"percent" : 0
-	},
-	{
-		"name" : "Patrick",
-		"color" : "#03A9F4",
-		"year" : 2019,
-		"month" : "August",
-		"week" : 33,
-		"percent" : 25
-	},
-	{
-		"name" : "Patrick",
-		"color" : "#03A9F4",
-		"year" : 2019,
-		"month" : "August",
-		"week" : 34,
-		"percent" : 34
-	},
-	{
-		"name" : "Patrick",
-		"color" : "#03A9F4",
-		"year" : 2019,
-		"month" : "August",
-		"week" : 35,
-		"percent" : 39
-	},
-	{
-		"name" : "Patrick",
-		"color" : "#03A9F4",
-		"year" : 2019,
-		"month" : "September",
-		"week" : 36,
-		"percent" : 35
-	},
-	{
-		"name" : "Patrick",
-		"color" : "#03A9F4",
-		"year" : 2019,
-		"month" : "September",
-		"week" : 37,
-		"percent" : 29
-	},
-	{
-		"name" : "Patrick",
-		"color" : "#03A9F4",
-		"year" : 2019,
-		"month" : "September",
-		"week" : 39,
-		"percent" : 24
-	},
-	{
-		"name" : "Patrick",
-		"color" : "#03A9F4",
-		"year" : 2019,
-		"month" : "October",
-		"week" : 40,
-		"percent" : 35
-	},
-	{
-		"name" : "Patrick",
-		"color" : "#03A9F4",
-		"year" : 2019,
-		"month" : "October",
-		"week" : 41,
-		"percent" : 29
-	},
-	{
-		"name" : "Patrick",
-		"color" : "#03A9F4",
-		"year" : 2019,
-		"month" : "October",
-		"week" : 42,
-		"percent" : 26
-	},
-	{
-		"name" : "Patrick",
-		"color" : "#03A9F4",
-		"year" : 2019,
-		"month" : "October",
-		"week" : 43,
-		"percent" : 32
-	},
-	{
-		"name" : "Patrick",
-		"color" : "#03A9F4",
-		"year" : 2019,
-		"month" : "October",
-		"week" : 44,
-		"percent" : 35
-	},
-	{
-		"name" : "Patrick",
-		"color" : "#03A9F4",
-		"year" : 2019,
-		"month" : "November",
-		"week" : 45,
-		"percent" : 32
-	},
-	{
-		"name" : "Patrick",
-		"color" : "#03A9F4",
-		"year" : 2019,
-		"month" : "November",
-		"week" : 46,
-		"percent" : 35
-	},
-	{
-		"name" : "Patrick",
-		"color" : "#03A9F4",
-		"year" : 2019,
-		"month" : "November",
-		"week" : 47,
-		"percent" : 19
-	},
-	{
-		"name" : "Patrick",
-		"color" : "#03A9F4",
-		"year" : 2020,
-		"month" : "January",
-		"week" : 2,
-		"percent" : 40
-	},
-	{
-		"name" : "Patrick",
-		"color" : "#03A9F4",
-		"year" : 2020,
-		"month" : "January",
-		"week" : 5,
-		"percent" : 35
-	},
-	{
-		"name" : "Patrick",
-		"color" : "#03A9F4",
-		"year" : 2020,
-		"month" : "February",
-		"week" : 5,
-		"percent" : 24
-	},
-	{
-		"name" : "Stephen",
-		"color" : "#004D40",
-		"year" : 2019,
-		"month" : "August",
-		"week" : 33,
-		"percent" : 0
-	},
-	{
-		"name" : "Stephen",
-		"color" : "#004D40",
-		"year" : 2019,
-		"month" : "August",
-		"week" : 34,
-		"percent" : 0
-	},
-	{
-		"name" : "Stephen",
-		"color" : "#004D40",
-		"year" : 2019,
-		"month" : "August",
-		"week" : 35,
-		"percent" : 0
-	},
-	{
-		"name" : "Stephen",
-		"color" : "#004D40",
-		"year" : 2019,
-		"month" : "September",
-		"week" : 36,
-		"percent" : 0
-	},
-	{
-		"name" : "Stephen",
-		"color" : "#004D40",
-		"year" : 2019,
-		"month" : "September",
-		"week" : 37,
-		"percent" : 0
-	},
-	{
-		"name" : "Stephen",
-		"color" : "#004D40",
-		"year" : 2019,
-		"month" : "September",
-		"week" : 39,
-		"percent" : 0
-	},
-	{
-		"name" : "Stephen",
-		"color" : "#004D40",
-		"year" : 2019,
-		"month" : "October",
-		"week" : 40,
-		"percent" : 50
-	},
-	{
-		"name" : "Stephen",
-		"color" : "#004D40",
-		"year" : 2019,
-		"month" : "October",
-		"week" : 41,
-		"percent" : 21
-	},
-	{
-		"name" : "Stephen",
-		"color" : "#004D40",
-		"year" : 2019,
-		"month" : "October",
-		"week" : 42,
-		"percent" : 0
-	},
-	{
-		"name" : "Stephen",
-		"color" : "#004D40",
-		"year" : 2019,
-		"month" : "October",
-		"week" : 43,
-		"percent" : 17
-	},
-	{
-		"name" : "Stephen",
-		"color" : "#004D40",
-		"year" : 2019,
-		"month" : "October",
-		"week" : 44,
-		"percent" : 25
-	},
-	{
-		"name" : "Stephen",
-		"color" : "#004D40",
-		"year" : 2019,
-		"month" : "November",
-		"week" : 45,
-		"percent" : 22
-	},
-	{
-		"name" : "Stephen",
-		"color" : "#004D40",
-		"year" : 2019,
-		"month" : "November",
-		"week" : 46,
-		"percent" : 0
-	},
-	{
-		"name" : "Stephen",
-		"color" : "#004D40",
-		"year" : 2019,
-		"month" : "November",
-		"week" : 47,
-		"percent" : 29
-	},
-	{
-		"name" : "Stephen",
-		"color" : "#004D40",
-		"year" : 2020,
-		"month" : "January",
-		"week" : 2,
-		"percent" : 0
-	},
-	{
-		"name" : "Stephen",
-		"color" : "#004D40",
-		"year" : 2020,
-		"month" : "January",
-		"week" : 5,
-		"percent" : 0
-	},
-	{
-		"name" : "Stephen",
-		"color" : "#004D40",
-		"year" : 2020,
-		"month" : "February",
-		"week" : 5,
-		"percent" : 0
-	}
-]
+{
+  "labels": [
+    "2019;August;33",
+    "2019;August;34",
+    "2019;August;35",
+    "2019;September;36",
+    "2019;September;37",
+    "2019;September;39",
+    "2019;October;40",
+    "2019;October;41",
+    "2019;October;42",
+    "2019;October;43",
+    "2019;October;44",
+    "2019;November;45",
+    "2019;November;46",
+    "2019;November;47",
+    "2020;January;2",
+    "2020;January;5",
+    "2020;February;5"
+  ],
+  "datasets": [
+    {
+      "label": "Bradley",
+      "backgroundColor": "#546E7A",
+      "borderColor": "#FFC107",
+      "fill": false,
+      "spanGaps": false,
+      "data": [
+        75,
+        72,
+        73,
+        73,
+        75,
+        74,
+        68,
+        79,
+        72,
+        72,
+        73,
+        70,
+        65,
+        81,
+        61,
+        67,
+        74
+      ]
+    },
+    {
+      "label": "Colby",
+      "backgroundColor": "#546E7A",
+      "borderColor": "#8BC34A",
+      "fill": false,
+      "spanGaps": false,
+      "data": [
+        30,
+        35,
+        33,
+        55,
+        57,
+        25,
+        null,
+        50,
+        50,
+        33,
+        null,
+        null,
+        null,
+        null,
+        25,
+        62,
+        48
+      ]
+    },
+    {
+      "label": "Kyle",
+      "backgroundColor": "#546E7A",
+      "borderColor": "#EF5350",
+      "fill": false,
+      "spanGaps": false,
+      "data": [
+        50,
+        48,
+        25,
+        22,
+        20,
+        62,
+        null,
+        50,
+        56,
+        75,
+        33,
+        47,
+        45,
+        62,
+        53,
+        22,
+        29
+      ]
+    },
+    {
+      "label": "Lance",
+      "backgroundColor": "#546E7A",
+      "borderColor": "#FFD600",
+      "fill": false,
+      "spanGaps": false,
+      "data": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        18,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "label": "Patrick",
+      "backgroundColor": "#546E7A",
+      "borderColor": "#03A9F4",
+      "fill": false,
+      "spanGaps": false,
+      "data": [
+        25,
+        34,
+        39,
+        35,
+        29,
+        24,
+        35,
+        29,
+        26,
+        32,
+        35,
+        32,
+        35,
+        19,
+        40,
+        35,
+        24
+      ]
+    },
+    {
+      "label": "Stephen",
+      "backgroundColor": "#546E7A",
+      "borderColor": "#004D40",
+      "fill": false,
+      "spanGaps": false,
+      "data": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        50,
+        21,
+        null,
+        17,
+        25,
+        22,
+        null,
+        29,
+        null,
+        null,
+        null
+      ]
+    }
+  ]
+}
