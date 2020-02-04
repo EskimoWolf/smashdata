@@ -52,6 +52,7 @@ order by
 
 select
 	p.name
+    ,p.color
     ,r.`year`
     ,r.`month`
     ,r.`week`
