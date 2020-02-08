@@ -78,6 +78,17 @@
 	},
 	{
 		"player" : "Bradley",
+		"character" : "Pit",
+		"wins" : 12,
+		"losses" : 2,
+		"percent" : 85.71,
+		"rank" : 1153,
+		"color" : "#acdafa",
+		"rank_letter" : "A",
+		"image" : "https://www.smashbros.com/assets_v2/img/fighter/pict/pit.png"
+	},
+	{
+		"player" : "Bradley",
 		"character" : "King K. Rool",
 		"wins" : 5,
 		"losses" : 1,
@@ -117,7 +128,7 @@
 		"percent" : 81.08,
 		"rank" : 1405,
 		"color" : "#fcdd76",
-		"rank_letter" : "XXX",
+		"rank_letter" : "SSSS",
 		"image" : "https://www.smashbros.com/assets_v2/img/fighter/pict/banjo_and_kazooie.png"
 	},
 	{
@@ -155,6 +166,17 @@
 	},
 	{
 		"player" : "Bradley",
+		"character" : "Byleth",
+		"wins" : 44,
+		"losses" : 14,
+		"percent" : 75.86,
+		"rank" : 1226,
+		"color" : "#9CE0B8",
+		"rank_letter" : "S",
+		"image" : "https://www.smashbros.com/assets_v2/img/fighter/pict/byleth.png"
+	},
+	{
+		"player" : "Bradley",
 		"character" : "Cloud",
 		"wins" : 15,
 		"losses" : 5,
@@ -174,17 +196,6 @@
 		"color" : "#7974a4",
 		"rank_letter" : "B",
 		"image" : "https://www.smashbros.com/assets_v2/img/fighter/pict/ganondorf.png"
-	},
-	{
-		"player" : "Bradley",
-		"character" : "Byleth",
-		"wins" : 41,
-		"losses" : 14,
-		"percent" : 74.55,
-		"rank" : 1207,
-		"color" : "#9CE0B8",
-		"rank_letter" : "S",
-		"image" : "https://www.smashbros.com/assets_v2/img/fighter/pict/byleth.png"
 	},
 	{
 		"player" : "Bradley",
@@ -529,17 +540,6 @@
 	},
 	{
 		"player" : "Bradley",
-		"character" : "Isabelle",
-		"wins" : 2,
-		"losses" : 5,
-		"percent" : 28.57,
-		"rank" : 935,
-		"color" : "#c4d37e",
-		"rank_letter" : "C",
-		"image" : "https://www.smashbros.com/assets_v2/img/fighter/pict/shizue.png"
-	},
-	{
-		"player" : "Bradley",
 		"character" : "Ice Climbers",
 		"wins" : 2,
 		"losses" : 7,
@@ -548,6 +548,17 @@
 		"color" : "#a0cafe",
 		"rank_letter" : "C",
 		"image" : "https://www.smashbros.com/assets_v2/img/fighter/pict/ice_climbers.png"
+	},
+	{
+		"player" : "Bradley",
+		"character" : "Isabelle",
+		"wins" : 2,
+		"losses" : 7,
+		"percent" : 22.22,
+		"rank" : 905,
+		"color" : "#c4d37e",
+		"rank_letter" : "C",
+		"image" : "https://www.smashbros.com/assets_v2/img/fighter/pict/shizue.png"
 	},
 	{
 		"player" : "Bradley",
@@ -672,6 +683,17 @@
 	},
 	{
 		"player" : "Colby",
+		"character" : "Banjo & Kazooie",
+		"wins" : 5,
+		"losses" : 4,
+		"percent" : 55.56,
+		"rank" : 1021,
+		"color" : "#fcdd76",
+		"rank_letter" : "B",
+		"image" : "https://www.smashbros.com/assets_v2/img/fighter/pict/banjo_and_kazooie.png"
+	},
+	{
+		"player" : "Colby",
 		"character" : "Young Link",
 		"wins" : 45,
 		"losses" : 39,
@@ -680,17 +702,6 @@
 		"color" : "#a5d160",
 		"rank_letter" : "S",
 		"image" : "https://www.smashbros.com/assets_v2/img/fighter/pict/young_link.png"
-	},
-	{
-		"player" : "Colby",
-		"character" : "Byleth",
-		"wins" : 6,
-		"losses" : 8,
-		"percent" : 42.86,
-		"rank" : 1029,
-		"color" : "#9CE0B8",
-		"rank_letter" : "B",
-		"image" : "https://www.smashbros.com/assets_v2/img/fighter/pict/byleth.png"
 	},
 	{
 		"player" : "Colby",
@@ -716,14 +727,14 @@
 	},
 	{
 		"player" : "Colby",
-		"character" : "Banjo & Kazooie",
-		"wins" : 2,
-		"losses" : 3,
-		"percent" : 40.00,
-		"rank" : 1005,
-		"color" : "#fcdd76",
-		"rank_letter" : "B",
-		"image" : "https://www.smashbros.com/assets_v2/img/fighter/pict/banjo_and_kazooie.png"
+		"character" : "Byleth",
+		"wins" : 9,
+		"losses" : 13,
+		"percent" : 40.91,
+		"rank" : 989,
+		"color" : "#9CE0B8",
+		"rank_letter" : "C",
+		"image" : "https://www.smashbros.com/assets_v2/img/fighter/pict/byleth.png"
 	},
 	{
 		"player" : "Colby",
@@ -771,6 +782,17 @@
 	},
 	{
 		"player" : "Colby",
+		"character" : "Zelda",
+		"wins" : 2,
+		"losses" : 4,
+		"percent" : 33.33,
+		"rank" : 1005,
+		"color" : "#fdeaa4",
+		"rank_letter" : "B",
+		"image" : "https://www.smashbros.com/assets_v2/img/fighter/pict/zelda.png"
+	},
+	{
+		"player" : "Colby",
 		"character" : "Lucas",
 		"wins" : 4,
 		"losses" : 9,
@@ -790,17 +812,6 @@
 		"color" : "#ffaec7",
 		"rank_letter" : "C",
 		"image" : "https://www.smashbros.com/assets_v2/img/fighter/pict/kirby.png"
-	},
-	{
-		"player" : "Colby",
-		"character" : "Zelda",
-		"wins" : 1,
-		"losses" : 4,
-		"percent" : 20.00,
-		"rank" : 988,
-		"color" : "#fdeaa4",
-		"rank_letter" : "C",
-		"image" : "https://www.smashbros.com/assets_v2/img/fighter/pict/zelda.png"
 	},
 	{
 		"player" : "Colby",
@@ -839,9 +850,9 @@
 		"player" : "Colby",
 		"character" : "Cloud",
 		"wins" : 0,
-		"losses" : 1,
+		"losses" : 2,
 		"percent" : 0.00,
-		"rank" : 987,
+		"rank" : 975,
 		"color" : "#419384",
 		"rank_letter" : "C",
 		"image" : "https://www.smashbros.com/assets_v2/img/fighter/pict/cloud.png"
@@ -894,9 +905,9 @@
 		"player" : "Colby",
 		"character" : "Ness",
 		"wins" : 0,
-		"losses" : 2,
+		"losses" : 3,
 		"percent" : 0.00,
-		"rank" : 985,
+		"rank" : 976,
 		"color" : "#de413d",
 		"rank_letter" : "C",
 		"image" : "https://www.smashbros.com/assets_v2/img/fighter/pict/ness.png"
@@ -1158,9 +1169,9 @@
 		"player" : "Patrick",
 		"character" : "Kirby",
 		"wins" : 31,
-		"losses" : 41,
-		"percent" : 43.06,
-		"rank" : 1037,
+		"losses" : 42,
+		"percent" : 42.47,
+		"rank" : 1023,
 		"color" : "#ffaec7",
 		"rank_letter" : "B",
 		"image" : "https://www.smashbros.com/assets_v2/img/fighter/pict/kirby.png"
@@ -1420,6 +1431,17 @@
 	},
 	{
 		"player" : "Patrick",
+		"character" : "Sheik",
+		"wins" : 1,
+		"losses" : 5,
+		"percent" : 16.67,
+		"rank" : 946,
+		"color" : "#756fd0",
+		"rank_letter" : "C",
+		"image" : "https://www.smashbros.com/assets_v2/img/fighter/pict/sheik.png"
+	},
+	{
+		"player" : "Patrick",
 		"character" : "Falco",
 		"wins" : 10,
 		"losses" : 55,
@@ -1455,9 +1477,9 @@
 		"player" : "Patrick",
 		"character" : "Olimar",
 		"wins" : 1,
-		"losses" : 9,
-		"percent" : 10.00,
-		"rank" : 876,
+		"losses" : 10,
+		"percent" : 9.09,
+		"rank" : 871,
 		"color" : "#ccefb0",
 		"rank_letter" : "D",
 		"image" : "https://www.smashbros.com/assets_v2/img/fighter/pict/olimar.png"
@@ -1530,6 +1552,17 @@
 	},
 	{
 		"player" : "Patrick",
+		"character" : "Mega Man",
+		"wins" : 0,
+		"losses" : 9,
+		"percent" : 0.00,
+		"rank" : 878,
+		"color" : "#86c1e0",
+		"rank_letter" : "D",
+		"image" : "https://www.smashbros.com/assets_v2/img/fighter/pict/mega_man.png"
+	},
+	{
+		"player" : "Patrick",
 		"character" : "Ness",
 		"wins" : 0,
 		"losses" : 1,
@@ -1571,17 +1604,6 @@
 		"color" : "#353f56",
 		"rank_letter" : "C",
 		"image" : "https://www.smashbros.com/assets_v2/img/fighter/pict/samus.png"
-	},
-	{
-		"player" : "Patrick",
-		"character" : "Sheik",
-		"wins" : 0,
-		"losses" : 5,
-		"percent" : 0.00,
-		"rank" : 919,
-		"color" : "#756fd0",
-		"rank_letter" : "C",
-		"image" : "https://www.smashbros.com/assets_v2/img/fighter/pict/sheik.png"
 	},
 	{
 		"player" : "Patrick",
